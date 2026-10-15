@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the paper."
+title: "Thai Dish-Level Sentiment Benchmark (DLABSA-thai)"
+authors:
+  - family-names: Wongabut
+    given-names: Thanatat
+    affiliation: "King Mongkut's University of Technology Thonburi"
+  - family-names: Chinwicha
+    given-names: Sukanya
+    affiliation: "King Mongkut's University of Technology Thonburi"
+repository-code: "https://github.com/thana-dev99/DLABSA-thai"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Comparing Free and Open Large Language Models for Dish-Level Aspect-Based Sentiment Analysis on Thai Restaurant Reviews"
+  authors:
+    - family-names: Wongabut
+      given-names: Thanatat
+    - family-names: Chinwicha
+      given-names: Sukanya
+  year: 2026

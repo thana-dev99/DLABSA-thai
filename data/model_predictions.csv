@@ -1,0 +1,901 @@
+review_id,model,parse_success,has_dish,dishes_json,latency_sec
+R0001,typhoon,True,False,[],0.328
+R0002,typhoon,True,False,[],0.266
+R0003,typhoon,True,True,"[{""name"": ""ก๋วยเตี๋ยวเรือ"", ""sentiment"": ""POS""}, {""name"": ""ผัดซีอิ๊ว"", ""sentiment"": ""POS""}]",0.655
+R0004,typhoon,True,True,"[{""name"": ""ปลากะพงทอดน้ำปลา"", ""sentiment"": ""NEU""}]",0.429
+R0005,typhoon,True,False,[],0.292
+R0006,typhoon,True,False,[],0.271
+R0007,typhoon,True,True,"[{""name"": ""ต้มยำน้ำข้น"", ""sentiment"": ""POS""}, {""name"": ""กุ้งทอดกระเทียม"", ""sentiment"": ""POS""}]",0.601
+R0008,typhoon,True,True,"[{""name"": ""ข้าวหมูแดง"", ""sentiment"": ""POS""}, {""name"": ""ข้าวขาหมู"", ""sentiment"": ""POS""}]",0.571
+R0009,typhoon,True,True,"[{""name"": ""Kani Miso"", ""sentiment"": ""POS""}, {""name"": ""Hotate Truffle ball"", ""sentiment"": ""POS""}]",0.545
+R0010,typhoon,True,False,[],0.3
+R0011,typhoon,True,False,[],0.293
+R0012,typhoon,True,False,[],0.305
+R0013,typhoon,True,False,[],0.288
+R0014,typhoon,True,True,"[{""name"": ""ยำถั่วพลู"", ""sentiment"": ""NEU""}, {""name"": ""ส้มตำผลไม้"", ""sentiment"": ""NEU""}, {""name"": ""ต้มแซ่บกระดูกอ่อนเอ็นแก้ว"", ""sentiment"": ""NEU""}, {""name"": ""ส้มตำปูปลาร้า นัวเวอร์"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดเนื้อเค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ปลากะพงทอดน้ำปลา"", ""sentiment"": ""NEU""}]",1.342
+R0015,typhoon,True,True,"[{""name"": ""พอร์คชอป"", ""sentiment"": ""POS""}]",0.422
+R0016,typhoon,True,False,[],0.299
+R0017,typhoon,True,False,[],0.27
+R0018,typhoon,True,True,"[{""name"": ""เค้ก"", ""sentiment"": ""POS""}]",0.398
+R0019,typhoon,True,True,"[{""name"": ""ต้มยำกุ้งมะพร้าวอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมอทะเล"", ""sentiment"": ""NEU""}, {""name"": ""มะระผักไข่"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำ"", ""sentiment"": ""NEU""}]",0.791
+R0020,typhoon,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",0.359
+R0021,typhoon,True,True,"[{""name"": ""ข้าวมันกุ้งไข่ข้น"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวกุ้งแกะราดมันกุ้ง"", ""sentiment"": ""NEU""}]",0.668
+R0022,typhoon,True,True,"[{""name"": ""ติ่มซำ"", ""sentiment"": ""POS""}, {""name"": ""บะกุดเต๋"", ""sentiment"": ""POS""}]",0.73
+R0023,typhoon,True,False,[],0.35
+R0024,typhoon,True,True,"[{""name"": ""พิซซ่า"", ""sentiment"": ""POS""}]",0.378
+R0025,typhoon,True,False,[],0.313
+R0026,typhoon,True,False,[],0.293
+R0027,typhoon,True,True,"[{""name"": ""หอยแครงลวก"", ""sentiment"": ""POS""}, {""name"": ""กุ้งแช่น้ำปลา"", ""sentiment"": ""POS""}]",0.67
+R0028,typhoon,True,True,"[{""name"": ""ริซอตโต้อีกแบบ"", ""sentiment"": ""POS""}]",0.412
+R0029,typhoon,True,False,[],0.324
+R0030,typhoon,True,False,[],0.286
+R0031,typhoon,True,True,"[{""name"": ""ขนมจีนน้ำยากะทิ"", ""sentiment"": ""POS""}]",0.496
+R0032,typhoon,True,False,[],0.371
+R0033,typhoon,True,False,[],0.303
+R0034,typhoon,True,True,"[{""name"": ""ข้าวผัด"", ""sentiment"": ""NEU""}, {""name"": ""ปูผัดพริก"", ""sentiment"": ""NEG""}, {""name"": ""ผัดผัก"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""NEU""}]",0.79
+R0035,typhoon,True,True,"[{""name"": ""ต้มยำ"", ""sentiment"": ""POS""}, {""name"": ""ปลาเก๋า"", ""sentiment"": ""POS""}, {""name"": ""หมี่ฮ่องกง"", ""sentiment"": ""POS""}]",0.63
+R0036,typhoon,True,True,"[{""name"": ""ผัดผักหวาน"", ""sentiment"": ""NEU""}]",0.386
+R0037,typhoon,True,True,"[{""name"": ""ออส่วนนิ่ม"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดร้อน ๆ"", ""sentiment"": ""NEU""}, {""name"": ""แกงปูใบชะคราม"", ""sentiment"": ""POS""}]",0.666
+R0038,typhoon,True,True,"[{""name"": ""น้ำพริกรสเด็ด"", ""sentiment"": ""POS""}]",0.403
+R0039,typhoon,True,False,[],0.347
+R0040,typhoon,True,False,[],0.279
+R0041,typhoon,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",0.482
+R0042,typhoon,True,True,"[{""name"": ""ไข่ตุ๋น"", ""sentiment"": ""NEG""}, {""name"": ""เสต็กเนื้อ"", ""sentiment"": ""POS""}]",0.49
+R0043,typhoon,True,False,[],0.294
+R0044,typhoon,True,False,[],0.298
+R0045,typhoon,True,True,"[{""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ตำไทย"", ""sentiment"": ""NEG""}, {""name"": ""ตำข้าวโพดไข่เค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ตับหวาน"", ""sentiment"": ""POS""}, {""name"": ""เห็ดหอมทอด"", ""sentiment"": ""POS""}]",0.78
+R0046,typhoon,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""POS""}]",0.387
+R0047,typhoon,True,True,"[{""name"": ""ซุปกิมจิ"", ""sentiment"": ""POS""}]",0.357
+R0048,typhoon,True,True,"[{""name"": ""เบอร์เกอร์"", ""sentiment"": ""POS""}]",0.435
+R0049,typhoon,True,True,"[{""name"": ""ไส้กรอกปลาอินทรีย์"", ""sentiment"": ""POS""}, {""name"": ""ชุดจิ้มจุ่ม"", ""sentiment"": ""POS""}, {""name"": ""ไก่นาทอดตะไคร้"", ""sentiment"": ""POS""}, {""name"": ""ข้าวต้ม"", ""sentiment"": ""POS""}]",1.027
+R0050,typhoon,True,True,"[{""name"": ""ขาหมู"", ""sentiment"": ""POS""}, {""name"": ""ไข่ต้ม"", ""sentiment"": ""NEG""}, {""name"": ""ผักดอง"", ""sentiment"": ""NEG""}, {""name"": ""พริกน้ำส้ม"", ""sentiment"": ""NEG""}]",0.83
+R0051,typhoon,True,False,[],0.283
+R0052,typhoon,True,True,"[{""name"": ""ข้าวผัด"", ""sentiment"": ""NEU""}, {""name"": ""ปูผัดพริก"", ""sentiment"": ""NEG""}, {""name"": ""ผัดผัก"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""หอยเชลล์"", ""sentiment"": ""NEG""}]",0.813
+R0053,typhoon,True,False,[],0.293
+R0054,typhoon,True,True,"[{""name"": ""ต้มส้มปลากระบอก"", ""sentiment"": ""POS""}, {""name"": ""ปลาตะเพียนต้มเค็มไร้ก้าง"", ""sentiment"": ""POS""}, {""name"": ""มะระต้มหมูสับ"", ""sentiment"": ""POS""}, {""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""NEU""}, {""name"": ""ทอดมัน"", ""sentiment"": ""NEG""}]",1.126
+R0055,typhoon,True,False,[],0.302
+R0056,typhoon,True,True,"[{""name"": ""แซลมและทูน่า"", ""sentiment"": ""POS""}]",0.818
+R0057,typhoon,True,True,"[{""name"": ""ปีกไก่เหล้าแดง"", ""sentiment"": ""NEU""}, {""name"": ""ยำหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""กะหล่ำน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""กั้งซาชิมิ"", ""sentiment"": ""NEU""}, {""name"": ""กั้งกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""ปลาหิมะนึ่งซีอิ๊วไข่ตุ๋น"", ""sentiment"": ""NEU""}, {""name"": ""ออส่วน"", ""sentiment"": ""NEU""}, {""name"": ""หอยแครงลวก"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งมังกร 7 สีซาซิมิ"", ""sentiment"": ""POS""}]",1.95
+R0058,typhoon,True,True,"[{""name"": ""ต้มยำกุ้งมะพร้าวอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมอทะเล"", ""sentiment"": ""NEU""}, {""name"": ""มะระผักไข่"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำ"", ""sentiment"": ""NEU""}]",1.05
+R0059,typhoon,True,False,[],0.28
+R0060,typhoon,True,True,"[{""name"": ""แกงขี้เหล็ก"", ""sentiment"": ""POS""}]",0.489
+R0061,typhoon,True,True,"[{""name"": ""พายมะพร้าว"", ""sentiment"": ""POS""}]",0.415
+R0062,typhoon,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}]",0.406
+R0063,typhoon,True,True,"[{""name"": ""ไก่บ้านทอดเกลือ"", ""sentiment"": ""POS""}, {""name"": ""ออส่วน"", ""sentiment"": ""NEG""}, {""name"": ""ปลากระพงนึ่งมะนาว"", ""sentiment"": ""NEG""}, {""name"": ""ปีกไก่ทอดเกลือ"", ""sentiment"": ""POS""}]",0.862
+R0064,typhoon,True,False,[],0.35
+R0065,typhoon,True,False,[],0.298
+R0066,typhoon,True,True,"[{""name"": ""พล่ากุแลสด"", ""sentiment"": ""POS""}, {""name"": ""หมึกต้มน้ำดี"", ""sentiment"": ""POS""}, {""name"": ""ฉูฉี่หมอทะเล"", ""sentiment"": ""POS""}, {""name"": ""หอยจ้อปู"", ""sentiment"": ""NEG""}, {""name"": ""ข้าวผัดปลาทอด"", ""sentiment"": ""POS""}]",0.986
+R0067,typhoon,True,True,"[{""name"": ""แกงส้มชะอมไข่พร้อมด้วยไข่ปลาเม็ดใหญ่"", ""sentiment"": ""POS""}]",0.553
+R0068,typhoon,True,False,[],0.665
+R0069,typhoon,True,True,"[{""name"": ""ปูหลน"", ""sentiment"": ""POS""}, {""name"": ""หมึกผัดกะปิ"", ""sentiment"": ""POS""}, {""name"": ""ปูผัดพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""หมึกไข่ผัดกะปิ"", ""sentiment"": ""POS""}, {""name"": ""เมี่ยงปลากะพง"", ""sentiment"": ""POS""}, {""name"": ""ปลาหมึกผัดกะปิใส่สะตอ"", ""sentiment"": ""POS""}, {""name"": ""หลนปูเค็มกล่มกล่อม"", ""sentiment"": ""POS""}, {""name"": ""ปลากะพงสมุนไพรใบชะพลู"", ""sentiment"": ""POS""}]",1.803
+R0070,typhoon,True,False,[],0.319
+R0071,typhoon,True,True,"[{""name"": ""กับข้าวผัดเผ็ดเป็ด"", ""sentiment"": ""POS""}, {""name"": ""ไก่ผัดกระเทียม"", ""sentiment"": ""POS""}]",0.678
+R0072,typhoon,True,True,"[{""name"": ""แกงป่ากุ้ง"", ""sentiment"": ""POS""}, {""name"": ""ไส้อั่วทำเอง"", ""sentiment"": ""POS""}, {""name"": ""ผัดกระเพรา"", ""sentiment"": ""POS""}, {""name"": ""มัสมั่นไก่"", ""sentiment"": ""POS""}, {""name"": ""ขาหมูไข่พะโล้"", ""sentiment"": ""POS""}, {""name"": ""เนื้อตุ๋น"", ""sentiment"": ""POS""}, {""name"": ""กุ้งกระเทียม"", ""sentiment"": ""POS""}, {""name"": ""ผัดคะน้าปลาเค็ม"", ""sentiment"": ""POS""}, {""name"": ""ไข่เจียวธรรมดา"", ""sentiment"": ""POS""}, {""name"": ""ชาไทย แท้(ทำเอง)"", ""sentiment"": ""POS""}]",1.674
+R0073,typhoon,True,True,"[{""name"": ""ไก่ย่างหนังกรอบ"", ""sentiment"": ""POS""}, {""name"": ""ไก่ย่างกลางบึง"", ""sentiment"": ""NEU""}]",0.542
+R0074,typhoon,True,True,"[{""name"": ""ข้าวต้มกุ๊ย"", ""sentiment"": ""POS""}]",0.477
+R0075,typhoon,True,True,"[{""name"": ""โจ๊กหมูเครื่องใน"", ""sentiment"": ""POS""}]",0.464
+R0076,typhoon,True,False,[],0.291
+R0077,typhoon,True,True,"[{""name"": ""หอยแครงแกงใบชะพลู"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำเนื้อปลาน้ำข้น"", ""sentiment"": ""NEU""}, {""name"": ""หอยแครงลวก"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งแช่น้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปลาหมึกผัดไข่เค็ม"", ""sentiment"": ""NEU""}]",1.412
+R0078,typhoon,True,True,"[{""name"": ""ฉ่าก๋วยเตี๋ยว Char Kway Teaw"", ""sentiment"": ""POS""}, {""name"": ""ลักซา Laksa"", ""sentiment"": ""NEU""}, {""name"": ""บัคกุ๊ดเต๋ Bak Kut Teh"", ""sentiment"": ""NEU""}, {""name"": ""หมูสะเต๊ะ Pork Satay"", ""sentiment"": ""NEU""}, {""name"": ""ปลาเก๋าต้มเกี๊ยมฉ่ายเสฉวน"", ""sentiment"": ""NEU""}, {""name"": ""ปลาเก๋าต้มเกี๊ยมฉ่าเสฉวน"", ""sentiment"": ""NEU""}]",1.294
+R0079,typhoon,True,True,"[{""name"": ""ชานม"", ""sentiment"": ""NEU""}]",0.4
+R0080,typhoon,True,False,[],0.318
+R0081,typhoon,True,True,"[{""name"": ""แกงรัญจวน"", ""sentiment"": ""POS""}, {""name"": ""หมูสามชั้นผัดกะปิ"", ""sentiment"": ""POS""}]",0.599
+R0082,typhoon,True,False,[],0.31
+R0083,typhoon,True,True,"[{""name"": ""กุ้งผัดพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""หมึกไข่นึ่งมะนาว"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อปลากระพงผัดฉ่า"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อปูผัดผงกะหรี่"", ""sentiment"": ""NEU""}, {""name"": ""สลัดผลไม้กุ้งทอด"", ""sentiment"": ""NEU""}, {""name"": ""เอ็นไก่ทอด"", ""sentiment"": ""NEU""}]",1.433
+R0084,typhoon,True,True,"[{""name"": ""หมูผัดน้ำมันหอย"", ""sentiment"": ""POS""}, {""name"": ""ฮ่อยจ๊อปู"", ""sentiment"": ""POS""}, {""name"": ""กุ้งผัดพริกเกลือ"", ""sentiment"": ""POS""}, {""name"": ""กุ้งหมึกผัดกระเทียม"", ""sentiment"": ""POS""}, {""name"": ""สุกี้ทะเล"", ""sentiment"": ""POS""}, {""name"": ""กุ้งหมึกผัดผงกะหรี่"", ""sentiment"": ""POS""}]",1.351
+R0085,typhoon,True,True,"[{""name"": ""HOT ESPRESSO"", ""sentiment"": ""POS""}, {""name"": ""ไข่กระทะ"", ""sentiment"": ""POS""}]",0.583
+R0086,typhoon,True,True,"[{""name"": ""ยำปลาแซลมอน"", ""sentiment"": ""POS""}]",0.433
+R0087,typhoon,True,True,"[{""name"": ""ฉู่ฉี่ปลาหมอ"", ""sentiment"": ""NEU""}, {""name"": ""แกงเขียวหวานแห้งทะเล"", ""sentiment"": ""NEU""}, {""name"": ""แกงป่า ไก่บ้าน"", ""sentiment"": ""NEU""}, {""name"": ""ไข่เจียวหมูสับ"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อสับผัดยี่หร่า"", ""sentiment"": ""NEU""}]",1.265
+R0088,typhoon,True,True,"[{""name"": ""ข้าวหน้าเนื้แ"", ""sentiment"": ""NEU""}, {""name"": ""ไข่ดิบ"", ""sentiment"": ""NEU""}, {""name"": ""สันคอ"", ""sentiment"": ""NEU""}]",0.813
+R0089,typhoon,True,True,"[{""name"": ""ข้าวต้มรีฟิล"", ""sentiment"": ""POS""}, {""name"": ""อาหาร"", ""sentiment"": ""POS""}]",0.567
+R0090,typhoon,True,True,"[{""name"": ""พิซซ่าเวียดนาม"", ""sentiment"": ""POS""}]",0.466
+R0091,typhoon,True,False,[],0.322
+R0092,typhoon,True,True,"[{""name"": ""คั่วกลิ้งปลา"", ""sentiment"": ""POS""}, {""name"": ""น้ำพริกกะปิ"", ""sentiment"": ""POS""}]",0.688
+R0093,typhoon,True,True,"[{""name"": ""แหนมเนือง"", ""sentiment"": ""POS""}, {""name"": ""ทอดมันเวียดนาม"", ""sentiment"": ""POS""}, {""name"": ""เฝอหมูยอ"", ""sentiment"": ""NEU""}, {""name"": ""ยำหมูยอหนัง"", ""sentiment"": ""NEU""}, {""name"": ""ขนมเบื้องญวน"", ""sentiment"": ""NEU""}, {""name"": ""ปากหม้อ"", ""sentiment"": ""NEU""}]",1.46
+R0094,typhoon,True,False,[],0.363
+R0095,typhoon,True,True,"[{""name"": ""Salmon mirin"", ""sentiment"": ""POS""}, {""name"": ""Hojicha basque cheesecake"", ""sentiment"": ""POS""}, {""name"": ""Eggplang miso"", ""sentiment"": ""NEU""}]",0.66
+R0096,typhoon,True,True,"[{""name"": ""คะน้าหมูกรอบราดข้าว"", ""sentiment"": ""POS""}, {""name"": ""สเต็กหมูพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""ผักหวานผัดกุ้งราดข้าว"", ""sentiment"": ""POS""}, {""name"": ""ไข่กระทะ"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวหน้าน้ำตกคอหมู"", ""sentiment"": ""POS""}, {""name"": ""ก๋วยเตี๋ยวคั่วไก่"", ""sentiment"": ""NEU""}]",1.493
+R0097,typhoon,True,False,[],0.298
+R0098,typhoon,True,True,"[{""name"": ""แกงส้มชะอมไข่พร้อมด้วยไข่ปลาเม็ดใหญ่"", ""sentiment"": ""POS""}]",0.542
+R0099,typhoon,True,False,[],0.32
+R0100,typhoon,True,True,"[{""name"": ""ติ่มซำ"", ""sentiment"": ""POS""}, {""name"": ""บะกุดเต๋"", ""sentiment"": ""POS""}]",0.545
+R0101,typhoon,True,False,[],0.359
+R0102,typhoon,True,True,"[{""name"": ""จุ๋มทศกัณฐ์"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งทอดครีมมะนาว"", ""sentiment"": ""NEU""}, {""name"": ""ปลาแซลมอนฟู"", ""sentiment"": ""NEU""}, {""name"": ""ยำไส้"", ""sentiment"": ""NEU""}, {""name"": ""ยำผักบุ้งกรอบ"", ""sentiment"": ""NEU""}]",1.164
+R0103,typhoon,True,True,"[{""name"": ""ซุปเปอร์ขาไก่"", ""sentiment"": ""NEU""}, {""name"": ""ยำไข่เค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ผัดผักบุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""ไข่เค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ซุปเปอร์ลูกทุ่ง"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำหัวพุงไข่ปลาช่อน"", ""sentiment"": ""NEU""}, {""name"": ""ปลาช่อนนาเผาสมุนไพร"", ""sentiment"": ""NEU""}, {""name"": ""หัวปลาหม้อไฟ"", ""sentiment"": ""NEU""}, {""name"": ""ปูม้าดอง"", ""sentiment"": ""NEU""}, {""name"": ""ปูนิ่มทอดกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""แมงดาทะเลเผา"", ""sentiment"": ""NEU""}]",1.91
+R0104,typhoon,True,False,[],0.308
+R0105,typhoon,True,False,[],0.301
+R0106,typhoon,True,True,"[{""name"": ""กอไก่ล้านตัว"", ""sentiment"": ""POS""}]",0.446
+R0107,typhoon,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}, {""name"": ""แกงส้ม"", ""sentiment"": ""NEU""}]",0.421
+R0108,typhoon,True,True,"[{""name"": ""ยำผักบุ้งกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปูนิ่มผัดพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวต้ม"", ""sentiment"": ""NEU""}, {""name"": ""ผัดผักบุ้งไฟแดง"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำรวมมิตรทะเลน้ำข้น"", ""sentiment"": ""NEU""}, {""name"": ""ปลารากกล้วย"", ""sentiment"": ""NEU""}, {""name"": ""ไข่หมึกกล้วยทอดกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งซอสมะขาม"", ""sentiment"": ""NEU""}]",1.157
+R0109,typhoon,True,False,[],0.244
+R0110,typhoon,True,True,"[{""name"": ""ลาเวนเดอร์โซดา"", ""sentiment"": ""NEU""}, {""name"": ""วาฟเฟิลไอศกรีม"", ""sentiment"": ""NEU""}]",0.461
+R0111,typhoon,True,True,"[{""name"": ""ตำมั่วปูปลาร้าไม่เผ็ด"", ""sentiment"": ""NEU""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}, {""name"": ""อ่อมหมู"", ""sentiment"": ""MIX""}, {""name"": ""ตับหวาน"", ""sentiment"": ""NEU""}]",0.601
+R0112,typhoon,True,True,"[{""name"": ""กับข้าว"", ""sentiment"": ""POS""}]",0.46
+R0113,typhoon,True,True,"[{""name"": ""ปลากะพงทอดน้ำปลา"", ""sentiment"": ""POS""}, {""name"": ""ปูนิ่มทอดกระเทียม"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""NEU""}]",1.004
+R0114,typhoon,True,False,[],0.377
+R0115,typhoon,True,False,[],0.242
+R0116,typhoon,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}, {""name"": ""ลาบเป็ด"", ""sentiment"": ""POS""}]",0.441
+R0117,typhoon,True,True,"[{""name"": ""แหนมเนือง"", ""sentiment"": ""POS""}, {""name"": ""ทอดมันเวียดนาม"", ""sentiment"": ""POS""}, {""name"": ""เฝอหมูยอ"", ""sentiment"": ""NEU""}, {""name"": ""ยำหมูยอหนัง"", ""sentiment"": ""NEU""}, {""name"": ""ขนมเบื้องญวน"", ""sentiment"": ""NEU""}, {""name"": ""ปากหม้อ"", ""sentiment"": ""NEU""}]",0.781
+R0118,typhoon,True,True,"[{""name"": ""ปลานึ่งมะนาว"", ""sentiment"": ""POS""}, {""name"": ""น้ำจิ้ม"", ""sentiment"": ""POS""}]",0.697
+R0119,typhoon,True,True,"[{""name"": ""น้ำยาปู"", ""sentiment"": ""POS""}]",0.461
+R0120,typhoon,True,False,[],0.222
+R0121,typhoon,True,True,"[{""name"": ""ทะเลคลั่ง"", ""sentiment"": ""NEU""}, {""name"": ""ลาบแซลมอน"", ""sentiment"": ""NEU""}, {""name"": ""สหายสุรา"", ""sentiment"": ""NEU""}, {""name"": ""เห่าดง"", ""sentiment"": ""NEU""}]",0.562
+R0122,typhoon,True,True,"[{""name"": ""ผัดผักบุ้งไฟแดงหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""หมูแผ่นทอด"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อหอยลายผัดน้ำพริกเผา"", ""sentiment"": ""NEU""}]",1.038
+R0123,typhoon,True,False,[],0.314
+R0124,typhoon,True,True,"[{""name"": ""ปูนึ่ง"", ""sentiment"": ""POS""}]",0.333
+R0125,typhoon,True,True,"[{""name"": ""ปลาหิมะนึ่งบ๊วย"", ""sentiment"": ""POS""}, {""name"": ""พุงปลาช่อนผัดขึ้นฉ่าย"", ""sentiment"": ""POS""}, {""name"": ""ผัดหมี่ซั่วหมู เล็ก"", ""sentiment"": ""POS""}, {""name"": ""ซี่โครงอรหันต์"", ""sentiment"": ""POS""}, {""name"": ""หอยทอด"", ""sentiment"": ""POS""}, {""name"": ""ออส่วน หอยนางรม"", ""sentiment"": ""POS""}, {""name"": ""ยำวุ้นเส้น"", ""sentiment"": ""POS""}, {""name"": ""เผือกหิมะ เล็ก"", ""sentiment"": ""POS""}]",1.089
+R0126,typhoon,True,False,[],0.242
+R0127,typhoon,True,True,"[{""name"": ""หมูผัดกะปิ"", ""sentiment"": ""NEU""}]",0.343
+R0128,typhoon,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""POS""}]",0.495
+R0129,typhoon,True,False,[],0.248
+R0130,typhoon,True,False,[],0.318
+R0131,typhoon,True,True,"[{""name"": ""ปลาช่อนราดพริก"", ""sentiment"": ""POS""}, {""name"": ""กุ้งผัดพริกหยวก"", ""sentiment"": ""POS""}, {""name"": ""ผัดคะน้าปลาเค็ม"", ""sentiment"": ""POS""}, {""name"": ""เป็ดพะโล้ (ครึ่งตัว)"", ""sentiment"": ""POS""}, {""name"": ""ผัดเลือดใบคื่นไช่"", ""sentiment"": ""POS""}]",0.776
+R0132,typhoon,True,True,"[{""name"": ""ฮอกไกโด มิลค์"", ""sentiment"": ""POS""}, {""name"": ""เนื้อวากิวย่างแบบมีเดี่ยมแรมา"", ""sentiment"": ""POS""}, {""name"": ""ข้าวกระเพาเนื้อ"", ""sentiment"": ""POS""}, {""name"": ""ข้าวแกงกะหรี่"", ""sentiment"": ""POS""}, {""name"": ""ยำปลาแซลมอน"", ""sentiment"": ""POS""}, {""name"": ""ครีบปลาแซลมอน"", ""sentiment"": ""POS""}, {""name"": ""ปีกไก่ทอดกรอบๆ"", ""sentiment"": ""POS""}, {""name"": ""เพรสโต้"", ""sentiment"": ""POS""}]",1.904
+R0133,typhoon,True,False,[],0.254
+R0134,typhoon,True,True,"[{""name"": ""Black Truffle Soup"", ""sentiment"": ""POS""}, {""name"": ""Lamb Lagu"", ""sentiment"": ""POS""}]",0.4
+R0135,typhoon,True,False,[],0.308
+R0136,typhoon,True,False,[],0.313
+R0137,typhoon,True,True,"[{""name"": ""ตำปูม้า"", ""sentiment"": ""POS""}, {""name"": ""หอยนางรม"", ""sentiment"": ""NEU""}, {""name"": ""ผัดฉ่าหอยเชลล์"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}, {""name"": ""กะหล่ำปลีผัดน้ำปลา"", ""sentiment"": ""MIX""}]",1.292
+R0138,typhoon,True,True,"[{""name"": ""หมึกนึ่งมะนาว"", ""sentiment"": ""POS""}]",0.332
+R0139,typhoon,True,True,"[{""name"": ""หมู"", ""sentiment"": ""POS""}, {""name"": ""น้ำซุป"", ""sentiment"": ""POS""}, {""name"": ""ผัก"", ""sentiment"": ""POS""}]",0.455
+R0140,typhoon,True,True,"[{""name"": ""ส้มตำหมูกรอบ"", ""sentiment"": ""POS""}, {""name"": ""ต้มแซ่บซี่โครง"", ""sentiment"": ""NEU""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}, {""name"": ""ไก่ย่างขมิ้น"", ""sentiment"": ""NEU""}]",0.62
+R0141,typhoon,True,True,"[{""name"": ""แกงลูกชิ้นปลา"", ""sentiment"": ""NEU""}, {""name"": ""พะโล้"", ""sentiment"": ""NEU""}]",0.44
+R0142,typhoon,True,True,"[{""name"": ""น้ำพริกกะปิ+ผักสด"", ""sentiment"": ""NEU""}, {""name"": ""คั่วกลิ้งหมู"", ""sentiment"": ""NEU""}, {""name"": ""หมูกะปิ"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวคลุกกะปิ"", ""sentiment"": ""NEU""}, {""name"": ""ผัดไทย"", ""sentiment"": ""NEU""}]",0.732
+R0143,typhoon,True,False,[],0.32
+R0144,typhoon,True,True,"[{""name"": ""กระเพรา"", ""sentiment"": ""POS""}]",0.455
+R0145,typhoon,True,False,[],0.324
+R0146,typhoon,True,False,[],0.23
+R0147,typhoon,True,True,"[{""name"": ""กล้วยเชื่อมใส่น้ำแข็ง"", ""sentiment"": ""NEU""}, {""name"": ""แกงส้มชะอมทอดไหลบัวกุ้งสด"", ""sentiment"": ""POS""}]",0.828
+R0148,typhoon,True,True,"[{""name"": ""มักข้าวซอย"", ""sentiment"": ""POS""}, {""name"": ""ข้าวซอยโฮมเมด"", ""sentiment"": ""POS""}, {""name"": ""เกี๊ยวกรอบ"", ""sentiment"": ""POS""}]",0.63
+R0149,typhoon,True,True,"[{""name"": ""ต้มยำโป๊ะแตก"", ""sentiment"": ""POS""}, {""name"": ""ปลากระพงฟู"", ""sentiment"": ""POS""}, {""name"": ""กุ้งแม่น้ำราดซอสมะขาม"", ""sentiment"": ""POS""}, {""name"": ""กุ้งชุบแป้งทอด"", ""sentiment"": ""NEU""}]",1.015
+R0150,typhoon,True,True,"[{""name"": ""สปาเกตตี้เบค่อนพริกแห้ง"", ""sentiment"": ""NEU""}, {""name"": ""สลัดทะเลทอด"", ""sentiment"": ""NEU""}]",0.523
+R0151,typhoon,True,False,[],0.305
+R0152,typhoon,True,True,"[{""name"": ""มาม่าผัดขี้เมา"", ""sentiment"": ""POS""}, {""name"": ""เป็ดกีต้าร์"", ""sentiment"": ""POS""}, {""name"": ""ปลาเผา"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",0.875
+R0153,typhoon,True,False,[],0.315
+R0154,typhoon,True,False,[],0.272
+R0155,typhoon,True,False,[],0.304
+R0156,typhoon,True,True,"[{""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""POS""}]",0.408
+R0157,typhoon,True,True,"[{""name"": ""ส้มตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ยำต้นอ่อนทานตะวันทอดกรอบ"", ""sentiment"": ""NEU""}]",0.587
+R0158,typhoon,True,True,"[{""name"": ""ยำวุ้นเส้นทะเล"", ""sentiment"": ""NEG""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""NEG""}, {""name"": ""ทอดมันกุ้ง"", ""sentiment"": ""POS""}]",0.811
+R0159,typhoon,True,True,"[{""name"": ""น้ำพริกกะปิ"", ""sentiment"": ""POS""}, {""name"": ""ขนมไทย"", ""sentiment"": ""POS""}]",0.496
+R0160,typhoon,True,True,"[{""name"": ""หมี่กระเฉดหมู"", ""sentiment"": ""NEU""}]",0.404
+R0161,typhoon,True,False,[],0.303
+R0162,typhoon,True,False,[],0.288
+R0163,typhoon,True,True,"[{""name"": ""ผัดซีอิ๊วหมูนุ่ม"", ""sentiment"": ""NEU""}]",0.455
+R0164,typhoon,True,True,"[{""name"": ""กุ้งตัวโตดี"", ""sentiment"": ""POS""}, {""name"": ""ต้ม"", ""sentiment"": ""POS""}, {""name"": ""หม้อไฟ"", ""sentiment"": ""POS""}, {""name"": ""ไข่ตุ๋นหม้อไฟ"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำ"", ""sentiment"": ""POS""}]",0.874
+R0165,typhoon,True,True,"[{""name"": ""คั่วกลิ้งเห็ด"", ""sentiment"": ""POS""}, {""name"": ""แกงส้มแบบกับข้าว"", ""sentiment"": ""NEU""}]",0.571
+R0166,typhoon,True,True,"[{""name"": ""ปูทะเลนึ่ง"", ""sentiment"": ""POS""}, {""name"": ""กุ้งชุบแป้งทอด"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}]",0.69
+R0167,typhoon,True,False,[],0.275
+R0168,typhoon,True,True,"[{""name"": ""ปลากะพงนึ่งซีอิ้ว"", ""sentiment"": ""POS""}]",0.445
+R0169,typhoon,True,True,"[{""name"": ""น้ำซุปกระดุก"", ""sentiment"": ""POS""}]",0.444
+R0170,typhoon,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}, {""name"": ""ทะเลทิดกระเทียม"", ""sentiment"": ""NEG""}]",0.58
+R0171,typhoon,True,True,"[{""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""NEU""}, {""name"": ""ส่มตำปลาร้า"", ""sentiment"": ""POS""}, {""name"": ""เนื้ิอสันนอกย่าง"", ""sentiment"": ""NEU""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำปลาร้า"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำลาว"", ""sentiment"": ""POS""}]",1.046
+R0172,typhoon,True,True,"[{""name"": ""ส้มตำทอด"", ""sentiment"": ""POS""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}]",0.492
+R0173,typhoon,True,False,[],0.297
+R0174,typhoon,True,True,"[{""name"": ""ตำข้าวโพดไข่เค็ม"", ""sentiment"": ""POS""}, {""name"": ""หมูพวงไถนา"", ""sentiment"": ""POS""}, {""name"": ""แจ่วฮ้อนเนื้อน่องลายเซตใหญ่"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำรสจัดปลาร้านัว"", ""sentiment"": ""POS""}, {""name"": ""ยำแหนมทอด"", ""sentiment"": ""POS""}]",0.974
+R0175,typhoon,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""NEU""}, {""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ไอศกรีมมะพร้าวอ่อน ถ้วยเล็ก"", ""sentiment"": ""NEU""}, {""name"": ""ไส้กรอกอีสาน"", ""sentiment"": ""NEG""}, {""name"": ""ต้มแซ่บ"", ""sentiment"": ""NEG""}]",0.959
+R0176,typhoon,True,True,"[{""name"": ""ยำแซ่บ"", ""sentiment"": ""POS""}, {""name"": ""เผ็กน้อย"", ""sentiment"": ""NEU""}, {""name"": ""กระเพรา"", ""sentiment"": ""POS""}]",0.588
+R0177,typhoon,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำไทย"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อสันนอกย่าง"", ""sentiment"": ""NEU""}]",0.649
+R0178,typhoon,True,True,"[{""name"": ""ขาหมูเนื้อหนัง"", ""sentiment"": ""POS""}, {""name"": ""ซุปเยื่อไผ่กระดูกหมู"", ""sentiment"": ""POS""}, {""name"": ""เกาเหลาเลือดหมู"", ""sentiment"": ""POS""}, {""name"": ""เนื้อหนังไข่"", ""sentiment"": ""POS""}]",0.91
+R0179,typhoon,True,True,"[{""name"": ""ปลากุเลาผัดพริกขี้หนู"", ""sentiment"": ""NEG""}]",0.446
+R0180,typhoon,True,True,"[{""name"": ""ทอดมันกุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""หอยหลอดผัดฉ่า"", ""sentiment"": ""NEU""}, {""name"": ""กะพงเผาเกลือ"", ""sentiment"": ""NEU""}]",0.624
+R0181,typhoon,True,False,[],0.282
+R0182,typhoon,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""กุ้งเต้น"", ""sentiment"": ""POS""}, {""name"": ""ลาบเป็ดร้อยเอ็ด"", ""sentiment"": ""POS""}]",0.638
+R0183,typhoon,True,False,[],0.278
+R0184,typhoon,True,False,[],0.269
+R0185,typhoon,True,True,"[{""name"": ""หมี่กระเฉดหมู"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำปลากระพงน้ำใส"", ""sentiment"": ""NEU""}, {""name"": ""ผัดฉ่าทะเลราดข้าว"", ""sentiment"": ""NEU""}]",0.714
+R0186,typhoon,True,False,[],0.278
+R0187,typhoon,True,False,[],0.283
+R0188,typhoon,True,False,[],0.283
+R0189,typhoon,True,True,"[{""name"": ""แกงฮังเล"", ""sentiment"": ""NEU""}, {""name"": ""ลาบหมูคั่ว"", ""sentiment"": ""NEU""}, {""name"": ""น้ำพริกอ่อง"", ""sentiment"": ""NEU""}, {""name"": ""ผักสด"", ""sentiment"": ""NEU""}, {""name"": ""ขนมจีนน้ำเงี้ยว"", ""sentiment"": ""NEU""}, {""name"": ""ตำขนุนอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""หมูยอทอด"", ""sentiment"": ""NEU""}]",1.208
+R0190,typhoon,True,True,"[{""name"": ""ส้มตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ไอศรีมมะพร้าว"", ""sentiment"": ""POS""}]",0.543
+R0191,typhoon,True,True,"[{""name"": ""ข้าวหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""บะหมี่แห้งหมูแดง"", ""sentiment"": ""NEU""}]",0.626
+R0192,typhoon,True,False,[],0.303
+R0193,typhoon,True,False,[],0.237
+R0194,typhoon,True,False,[],0.306
+R0195,typhoon,True,False,[],0.264
+R0196,typhoon,True,True,"[{""name"": ""ต้มแซ่บกระดูกอ่อน"", ""sentiment"": ""POS""}, {""name"": ""ข้าวเหนียว"", ""sentiment"": ""NEU""}, {""name"": ""ปีกไก่ย่าง"", ""sentiment"": ""NEG""}, {""name"": ""ส้มตำไทย"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงทอดกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""ยำผักบุ้งกุ้งสด"", ""sentiment"": ""NEG""}, {""name"": ""กุ้งทอด"", ""sentiment"": ""NEG""}, {""name"": ""น้ำตกหมู"", ""sentiment"": ""NEU""}, {""name"": ""ผัดขนมจีน"", ""sentiment"": ""NEG""}]",1.858
+R0197,typhoon,True,False,[],0.278
+R0198,typhoon,True,False,[],0.309
+R0199,typhoon,True,True,"[{""name"": ""ยำปลาดุกฟู"", ""sentiment"": ""POS""}]",0.447
+R0200,typhoon,True,True,"[{""name"": ""เป็ดปักกิ่ง"", ""sentiment"": ""NEG""}, {""name"": ""บะหมี่ขาเป็ด"", ""sentiment"": ""NEG""}, {""name"": ""กระเพาะปลาผัดแห้ง"", ""sentiment"": ""NEG""}, {""name"": ""ปลา กระพงนึ่งมะนาว"", ""sentiment"": ""NEG""}, {""name"": ""กระเพาะปลา"", ""sentiment"": ""NEU""}, {""name"": ""แป๊ะก๊วยนมสด"", ""sentiment"": ""NEU""}]",1.053
+R0201,typhoon,True,True,"[{""name"": ""ปลาทับทิมนึ่ง"", ""sentiment"": ""POS""}, {""name"": ""อั่วกบ"", ""sentiment"": ""POS""}]",0.578
+R0202,typhoon,True,True,"[{""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""POS""}, {""name"": ""ปลาช่อนทอดน้ำปลา"", ""sentiment"": ""POS""}, {""name"": ""ห่อหมกพุงปลาๆ"", ""sentiment"": ""POS""}]",0.868
+R0203,typhoon,True,True,"[{""name"": ""ข้าวราดปลาหมึกผัดพริกเผา"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวราดหมูกรอบผัดพริกแกง"", ""sentiment"": ""NEU""}, {""name"": ""ไก่ทอดน้ำปลา"", ""sentiment"": ""NEU""}]",0.845
+R0204,typhoon,True,False,[],0.291
+R0205,typhoon,True,False,[],0.295
+R0206,typhoon,True,False,[],0.282
+R0207,typhoon,True,True,"[{""name"": ""#แกงเหลือง"", ""sentiment"": ""POS""}]",0.454
+R0208,typhoon,True,True,"[{""name"": ""ผัดผักบุ้งไฟแดง"", ""sentiment"": ""NEU""}, {""name"": ""หมูกระเทียม"", ""sentiment"": ""NEU""}]",0.524
+R0209,typhoon,True,True,"[{""name"": ""ข้าวมันไก่ตอนพิเศษ"", ""sentiment"": ""POS""}, {""name"": ""ข้าวมันไก่เนื้อนุ่ม"", ""sentiment"": ""POS""}]",0.698
+R0210,typhoon,True,True,"[{""name"": ""กรรเชียงปูผัดพริกเหลือง"", ""sentiment"": ""NEG""}, {""name"": ""เมี่ยงคำ"", ""sentiment"": ""NEU""}]",0.629
+R0211,typhoon,True,True,"[{""name"": ""เนย-วิปครีมโอรีโอลาวา"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวต้ม-กระดูกเล้ง"", ""sentiment"": ""NEU""}, {""name"": ""โกโก้ปั่น"", ""sentiment"": ""NEU""}, {""name"": ""ปังเย็นน้ำแดง วิปครีม+คอนเฟรค"", ""sentiment"": ""NEU""}, {""name"": ""โก"", ""sentiment"": ""NEU""}, {""name"": ""ปัง"", ""sentiment"": ""NEU""}, {""name"": ""เนย-วิป"", ""sentiment"": ""NEU""}, {""name"": ""ก"", ""sentiment"": ""NEU""}, {""name"": ""ก๋วยเตี๋ยวหมูต้มยำ"", ""sentiment"": ""NEU""}, {""name"": ""เกาเหลาเลือดหมู"", ""sentiment"": ""POS""}, {""name"": ""โจ๊ก"", ""sentiment"": ""NEU""}, {""name"": ""ยำรสแซ่บ"", ""sentiment"": ""POS""}, {""name"": ""คุณสยามซุปเปอร์แซ่บ"", ""sentiment"": ""NEU""}]",2.123
+R0212,typhoon,True,False,[],0.278
+R0213,typhoon,True,True,"[{""name"": ""ปลาแรด"", ""sentiment"": ""NEG""}]",0.375
+R0214,typhoon,True,True,"[{""name"": ""ส้มตำหลวงพระบางถาด"", ""sentiment"": ""POS""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""NEU""}, {""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}, {""name"": ""ปลานิลเผาเกลือ"", ""sentiment"": ""POS""}, {""name"": ""ตำซั่วแซ่บวัน"", ""sentiment"": ""POS""}, {""name"": ""ขนมจีน"", ""sentiment"": ""NEU""}]",0.986
+R0215,typhoon,True,False,[],0.277
+R0216,typhoon,True,True,"[{""name"": ""ตำซั่ว"", ""sentiment"": ""NEG""}, {""name"": ""ยำหมูยอ"", ""sentiment"": ""NEG""}]",0.5
+R0217,typhoon,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}]",0.393
+R0218,typhoon,True,False,[],0.272
+R0219,typhoon,True,False,[],0.291
+R0220,typhoon,True,True,"[{""name"": ""ส้มตำไทย"", ""sentiment"": ""POS""}, {""name"": ""อกไก่ย่าง"", ""sentiment"": ""POS""}]",0.482
+R0221,typhoon,True,True,"[{""name"": ""ส้มตำไทย"", ""sentiment"": ""POS""}, {""name"": ""ลาบทูน่า"", ""sentiment"": ""NEU""}, {""name"": ""สันในไก่ข้าวโพดทอด"", ""sentiment"": ""NEU""}]",0.631
+R0222,typhoon,True,True,"[{""name"": ""สปาเก็ตตี้กับร้านทอดในซอสขาว"", ""sentiment"": ""POS""}, {""name"": ""ชาไทยเย็น"", ""sentiment"": ""POS""}, {""name"": ""เค้กใบเตย"", ""sentiment"": ""POS""}]",0.672
+R0223,typhoon,True,False,[],0.272
+R0224,typhoon,True,True,"[{""name"": ""พริกตำสดๆ"", ""sentiment"": ""POS""}]",0.366
+R0225,typhoon,True,True,"[{""name"": ""คะน้าหมูกรอบราดข้าว"", ""sentiment"": ""NEU""}, {""name"": ""สเต็กหมูพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""ผักหวานผัดกุ้งราดข้าว"", ""sentiment"": ""NEU""}, {""name"": ""ไข่กระทะ"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวหน้าน้ำตกคอหมู"", ""sentiment"": ""NEU""}, {""name"": ""ก๋วยเตี๋ยวคั่วไก่"", ""sentiment"": ""NEU""}]",1.218
+R0226,typhoon,True,False,[],0.353
+R0227,typhoon,True,True,"[{""name"": ""ข้าวผัดกระเทียมปลาแซลมอน"", ""sentiment"": ""NEG""}, {""name"": ""ข้าวปลากระพงย่าง ซุปดาชิ"", ""sentiment"": ""POS""}]",0.604
+R0228,typhoon,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""กุ้งเต้น"", ""sentiment"": ""POS""}, {""name"": ""ลาบเป็ดร้อยเอ็ด"", ""sentiment"": ""POS""}]",0.646
+R0229,typhoon,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""POS""}]",0.384
+R0230,typhoon,True,True,"[{""name"": ""ส้มตำผัดผักบุ้งไทย"", ""sentiment"": ""MIX""}]",0.448
+R0231,typhoon,True,True,"[{""name"": ""ชานม"", ""sentiment"": ""NEU""}]",0.394
+R0232,typhoon,True,False,[],0.343
+R0233,typhoon,True,True,"[{""name"": ""หมูย่าง"", ""sentiment"": ""NEU""}, {""name"": ""น้ำส้ม"", ""sentiment"": ""POS""}]",0.51
+R0234,typhoon,True,False,[],0.278
+R0235,typhoon,True,False,[],0.34
+R0236,typhoon,True,True,"[{""name"": ""ข้าวผัดรถไฟ"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""แกงเขียวหวาน"", ""sentiment"": ""POS""}, {""name"": ""คั่วกลิ้ง"", ""sentiment"": ""POS""}]",0.71
+R0237,typhoon,True,True,"[{""name"": ""ไข่ตุ๋นหม้อไฟ"", ""sentiment"": ""NEU""}, {""name"": ""ปลากะพงสามรส"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งทอดซอสมะขาม"", ""sentiment"": ""NEU""}, {""name"": ""ผัดผักรวม ทะเลรวมมิตร"", ""sentiment"": ""NEU""}]",0.902
+R0238,typhoon,True,True,"[{""name"": ""ยำหมูกรอบวาซาบิ"", ""sentiment"": ""NEU""}, {""name"": ""ซี่โครงหมูตุ๋นพริกไทยดำ"", ""sentiment"": ""POS""}]",0.579
+R0239,typhoon,True,False,[],0.277
+R0240,typhoon,True,False,[],0.275
+R0241,typhoon,True,False,[],0.292
+R0242,typhoon,True,True,"[{""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}]",0.392
+R0243,typhoon,True,False,[],0.284
+R0244,typhoon,True,False,[],0.271
+R0245,typhoon,True,False,[],0.265
+R0246,typhoon,True,True,"[{""name"": ""ข้าวผัดปู"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำปลากะพงน้ำใส"", ""sentiment"": ""NEU""}, {""name"": ""หอยแคงลวก"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งเผา"", ""sentiment"": ""NEU""}, {""name"": ""ปูนึ่ง"", ""sentiment"": ""NEU""}]",0.914
+R0247,typhoon,True,True,"[{""name"": ""ซุปเยื่อไผ่"", ""sentiment"": ""POS""}]",0.4
+R0248,typhoon,True,True,"[{""name"": ""แกงเขียวหวาน"", ""sentiment"": ""POS""}]",0.367
+R0249,typhoon,True,True,"[{""name"": ""ผัดไทย"", ""sentiment"": ""POS""}]",0.365
+R0250,typhoon,True,True,"[{""name"": ""ปลาหมึกนึ่งมะนาว"", ""sentiment"": ""POS""}, {""name"": ""หอยหลอดผัดฉ่า"", ""sentiment"": ""NEU""}, {""name"": ""ทอดมันปลากราย"", ""sentiment"": ""NEU""}, {""name"": ""ปลาดุกฟู"", ""sentiment"": ""POS""}, {""name"": ""ตำไทย"", ""sentiment"": ""NEU""}]",1.05
+R0251,typhoon,True,True,"[{""name"": ""น้ำมะพร้าว"", ""sentiment"": ""POS""}, {""name"": ""เนื้อมะพร้าว"", ""sentiment"": ""NEU""}]",0.641
+R0252,typhoon,True,True,"[{""name"": ""ข้าวซอยหมู"", ""sentiment"": ""POS""}, {""name"": ""ขาวซอยหมู"", ""sentiment"": ""POS""}]",0.556
+R0253,typhoon,True,True,"[{""name"": ""ยำหอยนางรม"", ""sentiment"": ""NEU""}, {""name"": ""ปลาหมึกแดดเดียว"", ""sentiment"": ""NEU""}, {""name"": ""ขออีกจาน"", ""sentiment"": ""NEU""}, {""name"": ""หมูกรอบผัดพริกกลือ"", ""sentiment"": ""NEU""}, {""name"": ""แกงคั่วเนื้อปูก้อน"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งอบวุ้นเส้น"", ""sentiment"": ""NEU""}, {""name"": ""ปลากะพงทอดตะไคร้"", ""sentiment"": ""NEU""}]",1.402
+R0254,typhoon,True,True,"[{""name"": ""กุ้งแช่น้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปูผัดผงกระรี่"", ""sentiment"": ""NEU""}, {""name"": ""หมึกผัดไข่เค็ม"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งผัดผงกะหรี่"", ""sentiment"": ""NEU""}, {""name"": ""หมึกไข่นึ่งมะนาว"", ""sentiment"": ""NEU""}]",1.223
+R0255,typhoon,True,True,"[{""name"": ""แหนมเนือง"", ""sentiment"": ""POS""}, {""name"": ""ปากหม้อญวณ"", ""sentiment"": ""POS""}, {""name"": ""ก๋วยจั๊บญวณ"", ""sentiment"": ""POS""}]",0.625
+R0256,typhoon,True,True,"[{""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ต้มส้มปลากระบอก"", ""sentiment"": ""POS""}, {""name"": ""ฮอยจ๋อมาเม็ดใหญ่"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}, {""name"": ""ต้มส้มปลากรบอก"", ""sentiment"": ""POS""}, {""name"": ""ยำหอยนางรม"", ""sentiment"": ""NEU""}, {""name"": ""หมึกกุ้งชุบแป้งทอด"", ""sentiment"": ""POS""}]",1.395
+R0257,typhoon,True,True,"[{""name"": ""แกงเขียวหวานเนื้อ"", ""sentiment"": ""NEU""}, {""name"": ""แกงพะแนงหมู"", ""sentiment"": ""NEU""}]",0.565
+R0258,typhoon,True,True,"[{""name"": ""ไข่ลวก"", ""sentiment"": ""POS""}, {""name"": ""ติ่มซำ"", ""sentiment"": ""POS""}]",0.551
+R0259,typhoon,True,True,"[{""name"": ""ต้มยำปลา"", ""sentiment"": ""POS""}]",0.414
+R0260,typhoon,True,True,"[{""name"": ""บาร์บีคิวซี่โครงหมู"", ""sentiment"": ""NEU""}, {""name"": ""สลักผักรวม"", ""sentiment"": ""NEU""}, {""name"": ""สปาเก็ตตี้เส้นดำกระเทียมพริกแห้งซีฟู๊ต"", ""sentiment"": ""NEU""}, {""name"": ""Tortillas Pizza"", ""sentiment"": ""NEU""}, {""name"": ""เบอเกอร์เนื้อ"", ""sentiment"": ""POS""}]",1.111
+R0261,typhoon,True,True,"[{""name"": ""จิ้มจุ่มน้ำซุป"", ""sentiment"": ""NEG""}, {""name"": ""หมูผัก"", ""sentiment"": ""NEU""}]",0.57
+R0262,typhoon,True,False,[],0.289
+R0263,typhoon,True,False,[],0.297
+R0264,typhoon,True,True,"[{""name"": ""ผัดฉ่ากามหอย"", ""sentiment"": ""POS""}, {""name"": ""ปลาเก๋าราดพริก"", ""sentiment"": ""POS""}, {""name"": ""ผัดผักรวมมิตร"", ""sentiment"": ""POS""}]",0.705
+R0265,typhoon,True,True,"[{""name"": ""ปีกไก่ทอด🐓"", ""sentiment"": ""POS""}, {""name"": ""ยำลาวไข่แดงเค็มดิบ"", ""sentiment"": ""NEU""}, {""name"": ""ตำไข่เค็ม"", ""sentiment"": ""NEU""}]",0.724
+R0266,typhoon,True,True,"[{""name"": ""หมาล่า"", ""sentiment"": ""POS""}]",0.382
+R0267,typhoon,True,True,"[{""name"": ""ของทะเล"", ""sentiment"": ""POS""}]",0.378
+R0268,typhoon,True,True,"[{""name"": ""ปอเปี๊ยะกรอบกุ้ง"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดน้ำพริกปลาทู"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำ"", ""sentiment"": ""POS""}]",0.902
+R0269,typhoon,True,False,[],0.304
+R0270,typhoon,True,False,[],0.322
+R0271,typhoon,True,True,"[{""name"": ""Grilled Snapper"", ""sentiment"": ""NEU""}, {""name"": ""สปาเก็ตตี้"", ""sentiment"": ""POS""}, {""name"": ""Grilled Seabass"", ""sentiment"": ""NEU""}, {""name"": ""Chicken Teriyaki Nachos"", ""sentiment"": ""POS""}, {""name"": ""นาโช่ชีส"", ""sentiment"": ""POS""}]",4.101
+R0272,typhoon,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""น้ำตกคอหมู"", ""sentiment"": ""POS""}, {""name"": ""หอยแครง"", ""sentiment"": ""POS""}]",0.665
+R0273,typhoon,True,False,[],0.277
+R0274,typhoon,True,False,[],0.307
+R0275,typhoon,True,True,"[{""name"": ""ก๋วยเตี๋ยวน้ำตก"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวกะเพรา"", ""sentiment"": ""NEU""}, {""name"": ""ของหวาน"", ""sentiment"": ""NEU""}]",0.754
+R0276,typhoon,True,False,[],0.332
+R0277,typhoon,True,False,[],0.354
+R0278,typhoon,True,True,"[{""name"": ""Ice Orange Espresso"", ""sentiment"": ""NEU""}, {""name"": ""Mixed Berry Grumble Cheese"", ""sentiment"": ""NEU""}, {""name"": ""นักเก็ต + เฟรนซ์ฟราย"", ""sentiment"": ""NEU""}, {""name"": ""เค้กมะพร้าว"", ""sentiment"": ""POS""}]",0.923
+R0279,typhoon,True,True,"[{""name"": ""นกกระจอกผัดพริกไทยดำ"", ""sentiment"": ""POS""}, {""name"": ""ไก่ผัดเม็ดมะม่วง"", ""sentiment"": ""POS""}]",0.737
+R0280,typhoon,True,False,[],0.27
+R0281,typhoon,True,False,[],0.287
+R0282,typhoon,True,True,"[{""name"": ""ห่อหมกทะเลมะพร้าวอ่อน"", ""sentiment"": ""POS""}, {""name"": ""ออส่วนกรอบ"", ""sentiment"": ""POS""}, {""name"": ""ตำมังคุด"", ""sentiment"": ""POS""}, {""name"": ""กระพงลุยสวย"", ""sentiment"": ""NEG""}]",0.713
+R0283,typhoon,True,True,"[{""name"": ""น้ำพริกไข่ปู"", ""sentiment"": ""POS""}]",0.513
+R0284,typhoon,True,False,[],0.251
+R0285,typhoon,True,True,"[{""name"": ""สเต็กไก่"", ""sentiment"": ""NEG""}]",0.499
+R0286,typhoon,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",0.46
+R0287,typhoon,True,True,"[{""name"": ""ข้าวไข่ข้นกุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งเหยียด ชุด 5 ไม้"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวปลากะพงทอดคั่วพริกเกลือ"", ""sentiment"": ""NEU""}, {""name"": ""ยำเกี๊ยวกรอบกุ้งสับ"", ""sentiment"": ""NEU""}]",1.422
+R0288,typhoon,True,True,"[{""name"": ""ใบเหลียงผัดไข่"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อปลาเก๋านึ่งซีอิ๊ว"", ""sentiment"": ""NEU""}, {""name"": ""สามชั้นทอดน้ำปลา"", ""sentiment"": ""NEU""}]",1.057
+R0289,typhoon,True,True,"[{""name"": ""แกงส้ม"", ""sentiment"": ""NEG""}]",0.501
+R0290,typhoon,True,True,"[{""name"": ""ส้มตำชมนา"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมกทะเล"", ""sentiment"": ""NEU""}]",0.518
+R0291,typhoon,True,False,[],0.364
+R0292,typhoon,True,False,[],0.331
+R0293,typhoon,True,False,[],0.29
+R0294,typhoon,True,False,[],0.336
+R0295,typhoon,True,True,"[{""name"": ""ห่อหมกทะเลมะพร้าวอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""ปูนิ่มผัดพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ไข่เจียวธรรมดา"", ""sentiment"": ""NEU""}]",1.085
+R0296,typhoon,True,False,[],0.278
+R0297,typhoon,True,True,"[{""name"": ""ก๋วยเตี๋ยวเป็ดตุ๋น"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวเป็ดย่างหมูกรอบ"", ""sentiment"": ""NEU""}]",0.561
+R0298,typhoon,True,True,"[{""name"": ""ข้าวมันไก่พิเศษ"", ""sentiment"": ""POS""}]",0.484
+R0299,typhoon,True,True,"[{""name"": ""สลัด"", ""sentiment"": ""POS""}, {""name"": ""พาสต้า"", ""sentiment"": ""POS""}]",0.446
+R0300,typhoon,True,True,"[{""name"": ""แกงกะทิเนื้อโบราณ"", ""sentiment"": ""POS""}]",0.399
+R0001,gemini,True,False,[],1.04
+R0002,gemini,True,False,[],0.803
+R0003,gemini,True,True,"[{""name"": ""ก๋วยเตี๋ยวเรือ"", ""sentiment"": ""POS""}, {""name"": ""ผัดซีอิ๊ว"", ""sentiment"": ""POS""}]",1.508
+R0004,gemini,True,True,"[{""name"": ""ปลากะพงทอดน้ำปลา"", ""sentiment"": ""NEU""}]",0.728
+R0005,gemini,True,False,[],1.111
+R0006,gemini,True,False,[],1.071
+R0007,gemini,True,True,"[{""name"": ""ต้มยำน้ำข้น"", ""sentiment"": ""POS""}, {""name"": ""กุ้งทอดกระเทียม"", ""sentiment"": ""POS""}]",0.822
+R0008,gemini,True,True,"[{""name"": ""ข้าวขาหมู"", ""sentiment"": ""POS""}, {""name"": ""ข้าวหมูแดง"", ""sentiment"": ""POS""}, {""name"": ""ข้าวหมูแดง+หมูกรอบ+ไข่"", ""sentiment"": ""POS""}]",1.096
+R0009,gemini,True,True,"[{""name"": ""Kani Miso"", ""sentiment"": ""NEU""}, {""name"": ""Hotate Truffle ball"", ""sentiment"": ""NEU""}]",1.082
+R0010,gemini,True,False,[],1.769
+R0011,gemini,True,False,[],0.899
+R0012,gemini,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""NEU""}, {""name"": ""ข้าว"", ""sentiment"": ""NEU""}]",1.485
+R0013,gemini,True,False,[],1.215
+R0014,gemini,True,True,"[{""name"": ""ยำถั่วพลู"", ""sentiment"": ""NEU""}, {""name"": ""ส้มตำผลไม้"", ""sentiment"": ""NEU""}, {""name"": ""ต้มแซ่บกระดูกอ่อนเอ็นแก้ว"", ""sentiment"": ""NEU""}, {""name"": ""ส้มตำปูปลาร้า นัวเวอร์"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดเนื้อเค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ปลากะพงทอดน้ำปลา"", ""sentiment"": ""NEU""}]",1.204
+R0015,gemini,True,True,"[{""name"": ""พอร์คชอป"", ""sentiment"": ""POS""}, {""name"": ""Brunch"", ""sentiment"": ""POS""}]",1.157
+R0016,gemini,True,False,[],1.84
+R0017,gemini,True,False,[],0.755
+R0018,gemini,True,True,"[{""name"": ""เค้ก"", ""sentiment"": ""POS""}]",1.356
+R0019,gemini,True,True,"[{""name"": ""ต้มยำกุ้งมะพร้าวอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมอทะเล"", ""sentiment"": ""NEU""}, {""name"": ""มะระผักไข่"", ""sentiment"": ""MIX""}, {""name"": ""ต้มยำ"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมกทะเล"", ""sentiment"": ""NEU""}]",1.318
+R0020,gemini,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",0.852
+R0021,gemini,True,False,[],1.233
+R0022,gemini,True,True,"[{""name"": ""ติ่มซำ"", ""sentiment"": ""POS""}, {""name"": ""บะกุดเต๋"", ""sentiment"": ""POS""}]",1.187
+R0023,gemini,True,False,[],0.734
+R0024,gemini,True,True,"[{""name"": ""พิซซ่า"", ""sentiment"": ""POS""}]",0.908
+R0025,gemini,True,False,[],1.5
+R0026,gemini,True,False,[],0.815
+R0027,gemini,True,True,"[{""name"": ""หอยแครงลวก"", ""sentiment"": ""POS""}, {""name"": ""กุ้งแช่น้ำปลา"", ""sentiment"": ""POS""}]",1.071
+R0028,gemini,True,True,"[{""name"": ""ริซอตโต้"", ""sentiment"": ""POS""}]",1.446
+R0029,gemini,True,False,[],0.889
+R0030,gemini,True,False,[],1.172
+R0031,gemini,True,True,"[{""name"": ""ขนมจีนน้ำยากะทิ"", ""sentiment"": ""POS""}, {""name"": ""ขนมจีน"", ""sentiment"": ""POS""}]",1.041
+R0032,gemini,True,False,[],1.013
+R0033,gemini,True,False,[],1.085
+R0034,gemini,True,True,"[{""name"": ""ข้าวผัด"", ""sentiment"": ""NEU""}, {""name"": ""ปูผัดพริก"", ""sentiment"": ""NEG""}, {""name"": ""ผัดผัก"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""POS""}]",1.046
+R0035,gemini,True,True,"[{""name"": ""ต้มยำ"", ""sentiment"": ""POS""}, {""name"": ""ปลาเก๋า"", ""sentiment"": ""POS""}, {""name"": ""หมี่ฮ่องกง"", ""sentiment"": ""POS""}]",1.309
+R0036,gemini,True,True,"[{""name"": ""ผัดผักหวาน"", ""sentiment"": ""NEU""}, {""name"": ""น้ำจิ้มซีฟู้ด"", ""sentiment"": ""NEG""}, {""name"": ""อาหารทะเล"", ""sentiment"": ""NEG""}, {""name"": ""ปลา"", ""sentiment"": ""NEG""}]",0.99
+R0037,gemini,True,True,"[{""name"": ""ออส่วนนิ่ม"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัด"", ""sentiment"": ""NEU""}, {""name"": ""แกงปูใบชะคราม"", ""sentiment"": ""POS""}]",1.069
+R0038,gemini,True,True,"[{""name"": ""น้ำพริก"", ""sentiment"": ""POS""}]",0.844
+R0039,gemini,True,False,[],0.811
+R0040,gemini,True,False,[],0.991
+R0041,gemini,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",0.948
+R0042,gemini,True,True,"[{""name"": ""ไข่ตุ๋น"", ""sentiment"": ""NEG""}, {""name"": ""เสต็กเนื้อ"", ""sentiment"": ""POS""}]",0.905
+R0043,gemini,True,False,[],1.072
+R0044,gemini,True,False,[],1.157
+R0045,gemini,True,True,"[{""name"": ""เห็ดหอมทอด"", ""sentiment"": ""POS""}, {""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""NEU""}, {""name"": ""ตำไทย"", ""sentiment"": ""MIX""}, {""name"": ""ตำข้าวโพดไข่เค็ม"", ""sentiment"": ""MIX""}, {""name"": ""ตับหวาน"", ""sentiment"": ""POS""}]",2.184
+R0046,gemini,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""POS""}]",1.008
+R0047,gemini,True,True,"[{""name"": ""ซุปกิมจิ"", ""sentiment"": ""POS""}]",1.067
+R0048,gemini,True,True,"[{""name"": ""เบอร์เกอร์"", ""sentiment"": ""POS""}]",1.233
+R0049,gemini,True,True,"[{""name"": ""จิ้มจุ่มทะเล"", ""sentiment"": ""MIX""}, {""name"": ""ไส้กรอกปลาอินทรีย์"", ""sentiment"": ""POS""}, {""name"": ""ไก่นาทอดตะไคร้"", ""sentiment"": ""POS""}, {""name"": ""ข้าวต้ม"", ""sentiment"": ""POS""}]",0.984
+R0050,gemini,True,True,"[{""name"": ""น้ำราดขาหมู"", ""sentiment"": ""POS""}, {""name"": ""หนังขาหมู"", ""sentiment"": ""POS""}, {""name"": ""เนี้อหมู"", ""sentiment"": ""POS""}, {""name"": ""ใส้ขาหมู"", ""sentiment"": ""POS""}, {""name"": ""ไข่ต้ม"", ""sentiment"": ""MIX""}, {""name"": ""ผักดอง"", ""sentiment"": ""NEG""}, {""name"": ""พริกน้ำส้ม"", ""sentiment"": ""NEG""}]",1.251
+R0051,gemini,True,False,[],1.426
+R0052,gemini,True,True,"[{""name"": ""ข้าวผัด"", ""sentiment"": ""NEU""}, {""name"": ""ปูผัดพริก"", ""sentiment"": ""NEG""}, {""name"": ""ผัดผัก"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""POS""}, {""name"": ""หอยเชลล์"", ""sentiment"": ""NEG""}]",1.258
+R0053,gemini,True,False,[],1.224
+R0054,gemini,True,True,"[{""name"": ""ต้มส้มปลากระบอก"", ""sentiment"": ""POS""}, {""name"": ""ปลาตะเพียนต้มเค็ม"", ""sentiment"": ""POS""}, {""name"": ""มะระต้มหมูสับ"", ""sentiment"": ""POS""}, {""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}, {""name"": ""เฉาก๊วย"", ""sentiment"": ""POS""}, {""name"": ""ทอดมัน"", ""sentiment"": ""NEG""}]",0.963
+R0055,gemini,True,False,[],1.02
+R0056,gemini,True,True,"[{""name"": ""แซลม"", ""sentiment"": ""POS""}, {""name"": ""ทูน่า"", ""sentiment"": ""POS""}]",1.211
+R0057,gemini,True,True,"[{""name"": ""ปีกไก่เหล้าแดง"", ""sentiment"": ""NEU""}, {""name"": ""ยำหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""กะหล่ำน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""กั้งซาชิมิ"", ""sentiment"": ""NEU""}, {""name"": ""กั้งกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""ปลาหิมะนึ่งซีอิ๊วไข่ตุ๋น"", ""sentiment"": ""NEU""}, {""name"": ""ออส่วน"", ""sentiment"": ""NEU""}, {""name"": ""หอยแครงลวก"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งมังกร 7 สีซาซิมิ"", ""sentiment"": ""POS""}]",1.385
+R0058,gemini,True,True,"[{""name"": ""ต้มยำกุ้งมะพร้าวอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมอทะเล"", ""sentiment"": ""NEU""}, {""name"": ""มะระผักไข่"", ""sentiment"": ""MIX""}, {""name"": ""ต้มยำ"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมกทะเล"", ""sentiment"": ""NEU""}]",1.238
+R0059,gemini,True,False,[],0.97
+R0060,gemini,True,True,"[{""name"": ""ทอดมันหน่อกะลา"", ""sentiment"": ""NEU""}, {""name"": ""แกงขี้เหล็ก"", ""sentiment"": ""POS""}]",1.033
+R0061,gemini,True,True,"[{""name"": ""พายมะพร้าว ครีมสด"", ""sentiment"": ""POS""}]",1.5
+R0062,gemini,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}]",0.839
+R0063,gemini,True,True,"[{""name"": ""ไก่บ้านทอดเกลือ"", ""sentiment"": ""POS""}, {""name"": ""ออส่วน"", ""sentiment"": ""NEG""}, {""name"": ""ปลากระพงนึ่งมะนาว"", ""sentiment"": ""NEG""}, {""name"": ""ปีกไก่ทอดเกลือ"", ""sentiment"": ""POS""}]",2.557
+R0064,gemini,True,False,[],1.155
+R0065,gemini,True,False,[],0.904
+R0066,gemini,True,True,"[{""name"": ""พล่ากุแลสด"", ""sentiment"": ""POS""}, {""name"": ""ฉูฉี่หมอทะเล"", ""sentiment"": ""NEU""}, {""name"": ""หมึกต้มน้ำดี"", ""sentiment"": ""POS""}, {""name"": ""หอยจ้อปู"", ""sentiment"": ""MIX""}, {""name"": ""ข้าวผัดปลาโอ"", ""sentiment"": ""POS""}]",1.172
+R0067,gemini,True,True,"[{""name"": ""แกงส้มชะอมไข่พร้อมด้วยไข่ปลาเม็ดใหญ่"", ""sentiment"": ""POS""}, {""name"": ""เมนูปลา"", ""sentiment"": ""POS""}]",1.216
+R0068,gemini,True,False,[],1.293
+R0069,gemini,True,True,"[{""name"": ""ปูหลน"", ""sentiment"": ""NEU""}, {""name"": ""หมึกผัดกะปิ"", ""sentiment"": ""NEU""}, {""name"": ""ปูผัดพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""หมึกไข่ผัดกะปิ"", ""sentiment"": ""NEU""}, {""name"": ""เมี่ยงปลากะพง"", ""sentiment"": ""NEU""}, {""name"": ""ปลาหมึกผัดกะปิ"", ""sentiment"": ""POS""}, {""name"": ""หลนปูเค็ม"", ""sentiment"": ""POS""}, {""name"": ""ปลากะพงสมุนไพรใบชะพลู"", ""sentiment"": ""POS""}]",1.247
+R0070,gemini,True,False,[],1.311
+R0071,gemini,True,True,"[{""name"": ""ผัดเผ็ดเป็ด"", ""sentiment"": ""POS""}, {""name"": ""ไก่ผัดกระเทียม"", ""sentiment"": ""POS""}]",0.969
+R0072,gemini,True,True,"[{""name"": ""แกงป่ากุ้ง"", ""sentiment"": ""POS""}, {""name"": ""ไส้อั่วทำเอง"", ""sentiment"": ""POS""}, {""name"": ""ผัดกระเพรา"", ""sentiment"": ""POS""}, {""name"": ""มัสมั่นไก่"", ""sentiment"": ""POS""}, {""name"": ""ขาหมูไข่พะโล้"", ""sentiment"": ""POS""}, {""name"": ""เนื้อตุ๋น"", ""sentiment"": ""POS""}, {""name"": ""กุ้งกระเทียม"", ""sentiment"": ""POS""}, {""name"": ""ผัดคะน้าปลาเค็ม"", ""sentiment"": ""POS""}, {""name"": ""ไข่เจียวธรรมดา"", ""sentiment"": ""POS""}]",1.447
+R0073,gemini,True,True,"[{""name"": ""ไก่ย่างหนังกรอบ"", ""sentiment"": ""POS""}, {""name"": ""ไก่ย่าง"", ""sentiment"": ""NEU""}]",1.124
+R0074,gemini,True,True,"[{""name"": ""ข้าวต้มกุ๊ย"", ""sentiment"": ""POS""}]",0.982
+R0075,gemini,True,True,"[{""name"": ""โจ๊กหมูเครื่องใน"", ""sentiment"": ""NEU""}, {""name"": ""โจ๊ก"", ""sentiment"": ""POS""}]",1.226
+R0076,gemini,True,False,[],0.997
+R0077,gemini,True,True,"[{""name"": ""หอยแครงแกงใบชะพลู"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำเนื้อปลาน้ำข้น"", ""sentiment"": ""NEU""}, {""name"": ""หอยแครงลวก"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งแช่น้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปลาหมึกผัดไข่เค็ม"", ""sentiment"": ""NEU""}]",1.26
+R0078,gemini,True,True,"[{""name"": ""ฉ่าก๋วยเตี๋ยว"", ""sentiment"": ""POS""}, {""name"": ""ฉ่าก๋วยเตี๋ยว Char Kway Teaw"", ""sentiment"": ""NEU""}, {""name"": ""ลักซา Laksa"", ""sentiment"": ""NEU""}, {""name"": ""บัคกุ๊ดเต๋ Bak Kut Teh"", ""sentiment"": ""NEU""}, {""name"": ""หมูสะเต๊ะ Pork Satay"", ""sentiment"": ""NEU""}, {""name"": ""ปลาเก๋าต้มเกี๊ยมฉ่ายเสฉวน"", ""sentiment"": ""NEU""}, {""name"": ""ปลาเก๋าต้มเกี๊ยมฉ่าเสฉวน"", ""sentiment"": ""NEU""}]",1.323
+R0079,gemini,True,True,"[{""name"": ""ชานม"", ""sentiment"": ""NEU""}, {""name"": ""ติ่มซำ"", ""sentiment"": ""NEU""}]",1.087
+R0080,gemini,True,False,[],0.94
+R0081,gemini,True,True,"[{""name"": ""แกงรัญจวน"", ""sentiment"": ""POS""}, {""name"": ""หมูสามชั้นผัดกะปิ"", ""sentiment"": ""POS""}]",1.014
+R0082,gemini,True,True,"[{""name"": ""กุ้ง"", ""sentiment"": ""NEG""}, {""name"": ""ปลา"", ""sentiment"": ""NEG""}, {""name"": ""อาหาร"", ""sentiment"": ""NEU""}]",0.953
+R0083,gemini,True,True,"[{""name"": ""กุ้งผัดพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""หมึกไข่นึ่งมะนาว"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อปลากระพงผัดฉ่า"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อปูผัดผงกะหรี่"", ""sentiment"": ""NEU""}, {""name"": ""สลัดผลไม้กุ้งทอด"", ""sentiment"": ""NEU""}, {""name"": ""เอ็นไก่ทอด"", ""sentiment"": ""NEU""}]",1.323
+R0084,gemini,True,True,"[{""name"": ""หมูผัดน้ำมันหอย"", ""sentiment"": ""POS""}, {""name"": ""ฮ่อยจ๊อปู"", ""sentiment"": ""POS""}, {""name"": ""กุ้งผัดพริกเกลือ"", ""sentiment"": ""POS""}, {""name"": ""กุ้งหมึกผัดกระเทียม"", ""sentiment"": ""POS""}, {""name"": ""สุกี้ทะเล"", ""sentiment"": ""POS""}, {""name"": ""กุ้งหมึกผัดผงกะหรี่"", ""sentiment"": ""POS""}]",1.279
+R0085,gemini,True,True,"[{""name"": ""HOT ESPRESSO"", ""sentiment"": ""POS""}, {""name"": ""ไข่กระทะ"", ""sentiment"": ""POS""}, {""name"": ""espresso เย็น"", ""sentiment"": ""POS""}]",1.146
+R0086,gemini,True,True,"[{""name"": ""ยำปลาแซลมอน"", ""sentiment"": ""POS""}]",1.002
+R0087,gemini,True,True,"[{""name"": ""ฉู่ฉี่ปลาหมอ"", ""sentiment"": ""POS""}, {""name"": ""แกงเขียวหวานแห้งทะเล"", ""sentiment"": ""POS""}, {""name"": ""แกงป่า ไก่บ้าน"", ""sentiment"": ""POS""}, {""name"": ""ไข่เจียวหมูสับ"", ""sentiment"": ""POS""}, {""name"": ""เนื้อสับผัดยี่หร่า"", ""sentiment"": ""POS""}]",1.189
+R0088,gemini,True,True,"[{""name"": ""ข้าวหน้าเนื้แ"", ""sentiment"": ""NEU""}, {""name"": ""ไข่ดิบ"", ""sentiment"": ""NEU""}, {""name"": ""สันคอ"", ""sentiment"": ""NEU""}, {""name"": ""น้ำจิ้ม"", ""sentiment"": ""NEU""}, {""name"": ""น้ำซุป"", ""sentiment"": ""NEU""}]",1.057
+R0089,gemini,True,False,[],1.225
+R0090,gemini,True,True,"[{""name"": ""พิซซ่าเวียดนาม"", ""sentiment"": ""POS""}]",1.29
+R0091,gemini,True,False,[],0.951
+R0092,gemini,True,True,"[{""name"": ""คั่วกลิ้งปลา"", ""sentiment"": ""POS""}, {""name"": ""น้ำพริกกะปิ"", ""sentiment"": ""POS""}, {""name"": ""คั่วกลิ้ง"", ""sentiment"": ""POS""}]",1.124
+R0093,gemini,True,True,"[{""name"": ""แหนมเนือง"", ""sentiment"": ""POS""}, {""name"": ""ทอดมันเวียดนาม"", ""sentiment"": ""POS""}, {""name"": ""เฝอหมูยอ"", ""sentiment"": ""NEU""}, {""name"": ""ยำหมูยอหนัง"", ""sentiment"": ""NEU""}, {""name"": ""ขนมเบื้องญวน"", ""sentiment"": ""NEU""}, {""name"": ""ปากหม้อ"", ""sentiment"": ""NEU""}]",1.109
+R0094,gemini,True,False,[],0.863
+R0095,gemini,True,True,"[{""name"": ""Salmon mirin"", ""sentiment"": ""POS""}, {""name"": ""Hojicha basque cheesecake"", ""sentiment"": ""POS""}, {""name"": ""Eggplang miso"", ""sentiment"": ""NEU""}]",1.546
+R0096,gemini,True,True,"[{""name"": ""คะน้าหมูกรอบราดข้าว"", ""sentiment"": ""POS""}, {""name"": ""สเต็กหมูพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""ผักหวานผัดกุ้งราดข้าว"", ""sentiment"": ""POS""}, {""name"": ""ไข่กระทะ"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวหน้าน้ำตกคอหมู"", ""sentiment"": ""POS""}, {""name"": ""ก๋วยเตี๋ยวคั่วไก่"", ""sentiment"": ""POS""}]",1.508
+R0097,gemini,True,False,[],0.935
+R0098,gemini,True,True,"[{""name"": ""แกงส้มชะอมไข่"", ""sentiment"": ""POS""}, {""name"": ""เมนูปลา"", ""sentiment"": ""POS""}]",0.996
+R0099,gemini,True,False,[],0.973
+R0100,gemini,True,True,"[{""name"": ""ติ่มซำ"", ""sentiment"": ""POS""}, {""name"": ""บะกุดเต๋"", ""sentiment"": ""POS""}]",1.031
+R0101,gemini,True,True,"[{""name"": ""กะปิ"", ""sentiment"": ""POS""}]",1.526
+R0102,gemini,True,True,"[{""name"": ""จุ๋มทศกัณฐ์"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งทอดครีมมะนาว"", ""sentiment"": ""NEU""}, {""name"": ""ปลาแซลมอนฟู"", ""sentiment"": ""NEU""}, {""name"": ""ยำไส้"", ""sentiment"": ""NEU""}, {""name"": ""ยำผักบุ้งกรอบ"", ""sentiment"": ""NEU""}]",1.268
+R0103,gemini,True,True,"[{""name"": ""ซุปเปอร์ขาไก่"", ""sentiment"": ""NEU""}, {""name"": ""ยำไข่เค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ผัดผักบุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""ไข่เค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ซุปเปอร์ลูกทุ่ง"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำหัวพุงไข่ปลาช่อน"", ""sentiment"": ""NEU""}, {""name"": ""ปลาช่อนนาเผาสมุนไพร"", ""sentiment"": ""NEU""}, {""name"": ""หัวปลาหม้อไฟ"", ""sentiment"": ""NEU""}, {""name"": ""ปูม้าดอง"", ""sentiment"": ""NEU""}, {""name"": ""ปูนิ่มทอดกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""แมงดาทะเลเผา"", ""sentiment"": ""NEU""}]",1.459
+R0104,gemini,True,False,[],0.819
+R0105,gemini,True,False,[],1.2
+R0106,gemini,True,False,[],0.852
+R0107,gemini,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}, {""name"": ""แกงส้ม"", ""sentiment"": ""NEU""}]",1.332
+R0108,gemini,True,True,"[{""name"": ""ยำผักบุ้งกรอบ"", ""sentiment"": ""POS""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""POS""}, {""name"": ""ปูนิ่มผัดพริกไทยดำ"", ""sentiment"": ""POS""}, {""name"": ""ข้าวต้ม"", ""sentiment"": ""POS""}, {""name"": ""ผัดผักบุ้งไฟแดง"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำรวมมิตรทะเลน้ำข้น"", ""sentiment"": ""POS""}, {""name"": ""ปลารากกล้วย"", ""sentiment"": ""POS""}, {""name"": ""ไข่หมึกกล้วยทอดกระเทียม"", ""sentiment"": ""POS""}, {""name"": ""กุ้งซอสมะขาม"", ""sentiment"": ""POS""}]",1.303
+R0109,gemini,True,False,[],0.938
+R0110,gemini,True,True,"[{""name"": ""วาฟเฟิลไอศกรีม"", ""sentiment"": ""NEU""}]",1.0
+R0111,gemini,True,True,"[{""name"": ""เนื้ิอสันนอกย่าง"", ""sentiment"": ""POS""}, {""name"": ""ตำมั่วปูปลาร้า"", ""sentiment"": ""NEU""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}, {""name"": ""อ่อมหมู"", ""sentiment"": ""MIX""}, {""name"": ""ตับหวาน"", ""sentiment"": ""NEU""}]",0.951
+R0112,gemini,True,False,[],1.133
+R0113,gemini,True,True,"[{""name"": ""ปลากะพงทอดน้ำปลา"", ""sentiment"": ""POS""}, {""name"": ""ปูนิ่มทอดกระเทียม"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""NEU""}]",0.994
+R0114,gemini,True,True,"[{""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}, {""name"": ""ขนมจีบ"", ""sentiment"": ""POS""}, {""name"": ""สลัดกุ้ง"", ""sentiment"": ""POS""}]",1.795
+R0115,gemini,True,False,[],1.147
+R0116,gemini,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}, {""name"": ""ลาบเป็ด"", ""sentiment"": ""POS""}, {""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""NEU""}, {""name"": ""ยำกุ้งดอกสะเดา"", ""sentiment"": ""NEU""}, {""name"": ""ปลาทับทิม"", ""sentiment"": ""NEU""}]",1.015
+R0117,gemini,True,True,"[{""name"": ""แหนมเนือง"", ""sentiment"": ""POS""}, {""name"": ""ทอดมันเวียดนาม"", ""sentiment"": ""POS""}, {""name"": ""เฝอหมูยอ"", ""sentiment"": ""NEU""}, {""name"": ""ยำหมูยอหนัง"", ""sentiment"": ""NEU""}, {""name"": ""ขนมเบื้องญวน"", ""sentiment"": ""NEU""}, {""name"": ""ปากหม้อ"", ""sentiment"": ""NEU""}]",1.079
+R0118,gemini,True,True,"[{""name"": ""ปลานึ่งมะนาว"", ""sentiment"": ""POS""}]",1.036
+R0119,gemini,True,True,"[{""name"": ""น้ำยาปู"", ""sentiment"": ""POS""}]",0.895
+R0120,gemini,True,False,[],1.359
+R0121,gemini,True,True,"[{""name"": ""เห่าดงและสหายสุรา"", ""sentiment"": ""POS""}, {""name"": ""ทะเลคลั่ง"", ""sentiment"": ""POS""}, {""name"": ""ลาบแซลมอน"", ""sentiment"": ""POS""}, {""name"": ""สหายสุรา"", ""sentiment"": ""POS""}, {""name"": ""เห่าดง"", ""sentiment"": ""POS""}]",1.095
+R0122,gemini,True,True,"[{""name"": ""ผัดผักบุ้งไฟแดงหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""หมูแผ่นทอด"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อหอยลายผัดน้ำพริกเผา"", ""sentiment"": ""NEU""}]",0.954
+R0123,gemini,True,False,[],1.747
+R0124,gemini,True,True,"[{""name"": ""ปูนึ่ง"", ""sentiment"": ""POS""}]",1.289
+R0125,gemini,True,True,"[{""name"": ""ปลาหิมะนึ่งบ๊วย"", ""sentiment"": ""POS""}, {""name"": ""พุงปลาช่อนผัดขึ้นฉ่าย"", ""sentiment"": ""POS""}, {""name"": ""ผัดหมี่ซั่วหมู เล็ก"", ""sentiment"": ""POS""}, {""name"": ""ซี่โครงอรหันต์"", ""sentiment"": ""POS""}, {""name"": ""หอยทอด"", ""sentiment"": ""POS""}, {""name"": ""ออส่วน หอยนางรม"", ""sentiment"": ""POS""}, {""name"": ""ยำวุ้นเส้น"", ""sentiment"": ""POS""}, {""name"": ""เผือกหิมะ เล็ก"", ""sentiment"": ""POS""}]",1.357
+R0126,gemini,True,False,[],0.995
+R0127,gemini,True,True,"[{""name"": ""หมูผัดกะปิ"", ""sentiment"": ""POS""}]",0.976
+R0128,gemini,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""POS""}]",0.946
+R0129,gemini,True,False,[],1.311
+R0130,gemini,True,False,[],0.95
+R0131,gemini,True,True,"[{""name"": ""ปลาช่อนราดพริก"", ""sentiment"": ""POS""}, {""name"": ""กุ้งผัดพริกหยวก"", ""sentiment"": ""POS""}, {""name"": ""ผัดคะน้าปลาเค็ม"", ""sentiment"": ""POS""}, {""name"": ""เป็ดพะโล้"", ""sentiment"": ""POS""}, {""name"": ""ผัดเลือดใบคื่นไช่"", ""sentiment"": ""POS""}]",1.664
+R0132,gemini,True,True,"[{""name"": ""ฮอกไกโด มิลค์"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อวากิวย่าง"", ""sentiment"": ""POS""}, {""name"": ""ข้าว กระเพาเนื้อ"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวแกงกะหรี่"", ""sentiment"": ""NEU""}, {""name"": ""ยำปลาแซลมอน"", ""sentiment"": ""NEU""}, {""name"": ""ครีบปลาแซลมอน"", ""sentiment"": ""NEU""}, {""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}]",1.213
+R0133,gemini,True,False,[],0.96
+R0134,gemini,True,True,"[{""name"": ""Black Truffle Soup"", ""sentiment"": ""POS""}, {""name"": ""Lamb Lagu"", ""sentiment"": ""POS""}, {""name"": ""Smoked Duck Breast"", ""sentiment"": ""NEU""}]",1.218
+R0135,gemini,True,False,[],1.195
+R0136,gemini,True,False,[],0.965
+R0137,gemini,True,True,"[{""name"": ""ตำปูม้า"", ""sentiment"": ""MIX""}, {""name"": ""หอยนางรมสด"", ""sentiment"": ""NEU""}, {""name"": ""ผัดฉ่าหอยเชลล์"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}, {""name"": ""กะหล่ำปลีผัดน้ำปลา"", ""sentiment"": ""MIX""}]",1.141
+R0138,gemini,True,True,"[{""name"": ""หมึกนึ่งมะนาว"", ""sentiment"": ""POS""}]",0.887
+R0139,gemini,False,,,2.831
+R0140,gemini,True,True,"[{""name"": ""คอหมู ย่าง"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำหมูกรอบ"", ""sentiment"": ""POS""}, {""name"": ""ต้มแซ่บซี่โครง"", ""sentiment"": ""POS""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}, {""name"": ""ไก่ย่างขมิ้น"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",1.226
+R0141,gemini,True,True,"[{""name"": ""แกงลูกชิ้นปลา"", ""sentiment"": ""POS""}, {""name"": ""พะโล้"", ""sentiment"": ""POS""}]",0.975
+R0142,gemini,True,True,"[{""name"": ""น้ำพริกกะปิ+ผักสด"", ""sentiment"": ""NEU""}, {""name"": ""คั่วกลิ้งหมู"", ""sentiment"": ""NEU""}, {""name"": ""หมูกะปิ"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวคลุกกะปิ"", ""sentiment"": ""NEU""}, {""name"": ""ผัดไทย"", ""sentiment"": ""NEU""}]",1.148
+R0143,gemini,True,False,[],0.893
+R0144,gemini,True,True,"[{""name"": ""กระเพรา"", ""sentiment"": ""POS""}]",0.849
+R0145,gemini,True,True,"[{""name"": ""ข้าวเหนียวมะม่วง"", ""sentiment"": ""POS""}]",1.041
+R0146,gemini,True,False,[],0.99
+R0147,gemini,True,True,"[{""name"": ""กล้วยเชื่อม"", ""sentiment"": ""POS""}, {""name"": ""แกงส้มชะอมทอดไหลบัวกุ้งสด"", ""sentiment"": ""POS""}]",1.06
+R0148,gemini,True,True,"[{""name"": ""ข้าวซอย"", ""sentiment"": ""POS""}, {""name"": ""เกี๊ยวกรอบ"", ""sentiment"": ""POS""}]",1.029
+R0149,gemini,True,True,"[{""name"": ""ปลากระพงฟู"", ""sentiment"": ""POS""}, {""name"": ""กุ้งแม่น้ำราดซอสมะขาม"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำโป๊ะแตก"", ""sentiment"": ""POS""}, {""name"": ""กุ้งชุบแป้งทอด"", ""sentiment"": ""NEU""}]",1.097
+R0150,gemini,True,True,"[{""name"": ""สปาเกตตี้เบค่อนพริกแห้ง"", ""sentiment"": ""POS""}, {""name"": ""สลัดทะเลทอด"", ""sentiment"": ""POS""}]",1.373
+R0151,gemini,True,False,[],1.023
+R0152,gemini,True,True,"[{""name"": ""มาม่าผัดขี้เมา"", ""sentiment"": ""NEU""}, {""name"": ""เป็ดกีต้าร์"", ""sentiment"": ""NEU""}, {""name"": ""ปลาเผา"", ""sentiment"": ""NEU""}, {""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",1.392
+R0153,gemini,True,True,"[{""name"": ""น้ำซุป"", ""sentiment"": ""POS""}]",1.144
+R0154,gemini,True,False,[],1.318
+R0155,gemini,True,False,[],0.957
+R0156,gemini,True,True,"[{""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""POS""}]",0.809
+R0157,gemini,True,True,"[{""name"": ""ส้มตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ยำต้นอ่อนทานตะวันทอดกรอบ"", ""sentiment"": ""NEU""}]",1.084
+R0158,gemini,True,True,"[{""name"": ""ยำวุ้นเส้นทะเล"", ""sentiment"": ""NEG""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""MIX""}, {""name"": ""ทอดมันกุ้ง"", ""sentiment"": ""POS""}]",1.259
+R0159,gemini,True,True,"[{""name"": ""น้ำพริกกะปิ"", ""sentiment"": ""POS""}, {""name"": ""ขนมไทย"", ""sentiment"": ""NEU""}]",1.033
+R0160,gemini,True,True,"[{""name"": ""หมี่กระเฉดหมู"", ""sentiment"": ""POS""}]",1.11
+R0161,gemini,True,False,[],1.073
+R0162,gemini,True,False,[],1.131
+R0163,gemini,True,True,"[{""name"": ""ราดหน้า"", ""sentiment"": ""NEU""}, {""name"": ""ผัดซีอิ๊ว"", ""sentiment"": ""NEU""}, {""name"": ""หมี่กระเฉด"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวผัด"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวผัดกระเพรา"", ""sentiment"": ""NEU""}, {""name"": ""ผัดซีอิ๊วหมูนุ่ม"", ""sentiment"": ""NEU""}, {""name"": ""สุกี้"", ""sentiment"": ""NEU""}]",1.407
+R0164,gemini,True,True,"[{""name"": ""กุ้ง"", ""sentiment"": ""POS""}, {""name"": ""ไข่ตุ๋นหม้อไฟ"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำ"", ""sentiment"": ""POS""}]",1.038
+R0165,gemini,True,True,"[{""name"": ""แกงส้ม"", ""sentiment"": ""NEU""}, {""name"": ""คั่วกลิ้งเห็ด"", ""sentiment"": ""POS""}, {""name"": ""น้ำพริกกะปิ"", ""sentiment"": ""NEU""}]",1.31
+R0166,gemini,True,True,"[{""name"": ""ปูทะเลนึ่ง"", ""sentiment"": ""POS""}, {""name"": ""กุ้งชุบแป้งทอด"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}]",1.456
+R0167,gemini,True,False,[],0.973
+R0168,gemini,True,True,"[{""name"": ""ปลากะพงนึ่งซีอิ้ว"", ""sentiment"": ""POS""}]",1.356
+R0169,gemini,True,True,"[{""name"": ""น้ำซุปกระดุก"", ""sentiment"": ""POS""}]",0.983
+R0170,gemini,True,True,"[{""name"": ""ทะเลทิดกระเทียม"", ""sentiment"": ""NEG""}, {""name"": ""แกงคั่วหอมขม"", ""sentiment"": ""POS""}, {""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}]",2.176
+R0171,gemini,True,True,"[{""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""NEU""}, {""name"": ""ส่มตำปลาร้า"", ""sentiment"": ""NEU""}, {""name"": ""เนื้ิอสันนอกย่าง"", ""sentiment"": ""NEU""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""NEU""}, {""name"": ""ส้มตำปลาร้า"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำลาว"", ""sentiment"": ""POS""}]",1.834
+R0172,gemini,True,True,"[{""name"": ""ส้มตำทอด"", ""sentiment"": ""POS""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}]",1.048
+R0173,gemini,True,False,[],0.912
+R0174,gemini,True,True,"[{""name"": ""ตำข้าวโพดไข่เค็ม"", ""sentiment"": ""POS""}, {""name"": ""หมูพวงไถนา"", ""sentiment"": ""POS""}, {""name"": ""แจ่วฮ้อนเนื้อน่องลายเซตใหญ่"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""ยำแหนมทอด"", ""sentiment"": ""NEU""}]",1.484
+R0175,gemini,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""NEU""}, {""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""NEU""}, {""name"": ""ไอศกรีมมะพร้าวอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""ไส้กรอกอีสาน"", ""sentiment"": ""NEG""}, {""name"": ""ต้มแซ่บ"", ""sentiment"": ""NEG""}]",1.129
+R0176,gemini,True,True,"[{""name"": ""ยำแซ่บ"", ""sentiment"": ""POS""}, {""name"": ""กระเพรา"", ""sentiment"": ""POS""}]",1.085
+R0177,gemini,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำไทย"", ""sentiment"": ""NEU""}, {""name"": ""เนื้ิอสันนอกย่าง"", ""sentiment"": ""NEU""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""NEU""}, {""name"": ""ตำไทย"", ""sentiment"": ""NEU""}]",1.235
+R0178,gemini,True,True,"[{""name"": ""ขาหมูเนื้อหนัง"", ""sentiment"": ""POS""}, {""name"": ""ซุปเยื่อไผ่กระดูกหมู"", ""sentiment"": ""NEU""}, {""name"": ""เกาเหลาเลือดหมู"", ""sentiment"": ""NEU""}, {""name"": ""คากิ"", ""sentiment"": ""POS""}, {""name"": ""ไส้พะโล้"", ""sentiment"": ""POS""}]",1.091
+R0179,gemini,True,True,"[{""name"": ""ปลากุเลาผัดพริกขี้หนู"", ""sentiment"": ""NEU""}]",1.049
+R0180,gemini,True,True,"[{""name"": ""ทอดมันกุ้ง"", ""sentiment"": ""POS""}, {""name"": ""หอยหลอดผัดฉ่า"", ""sentiment"": ""POS""}, {""name"": ""กะพงเผาเกลือ"", ""sentiment"": ""POS""}]",1.108
+R0181,gemini,True,False,[],0.967
+R0182,gemini,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""กุ้งเต้น"", ""sentiment"": ""POS""}, {""name"": ""ลาบเป็ดร้อยเอ็ด"", ""sentiment"": ""POS""}, {""name"": ""ปลาเผา"", ""sentiment"": ""NEU""}, {""name"": ""ซอยจุ๊"", ""sentiment"": ""NEU""}]",1.76
+R0183,gemini,True,False,[],0.895
+R0184,gemini,True,False,[],1.035
+R0185,gemini,True,True,"[{""name"": ""หมี่กระเฉดหมู"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำปลากระพงน้ำใส"", ""sentiment"": ""NEU""}, {""name"": ""ผัดฉ่าทะเลราดข้าว"", ""sentiment"": ""NEU""}]",1.085
+R0186,gemini,True,True,"[{""name"": ""ไอศครีม"", ""sentiment"": ""NEU""}]",1.241
+R0187,gemini,True,False,[],0.883
+R0188,gemini,True,False,[],1.025
+R0189,gemini,True,True,"[{""name"": ""แกงฮังเล"", ""sentiment"": ""NEU""}, {""name"": ""ลาบหมูคั่ว"", ""sentiment"": ""NEU""}, {""name"": ""น้ำพริกอ่อง"", ""sentiment"": ""NEU""}, {""name"": ""ผักสด"", ""sentiment"": ""NEU""}, {""name"": ""ขนมจีนน้ำเงี้ยว"", ""sentiment"": ""NEU""}, {""name"": ""ตำขนุนอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""หมูยอทอด"", ""sentiment"": ""NEU""}]",1.109
+R0190,gemini,True,True,"[{""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ไก่แซ่บทอด"", ""sentiment"": ""NEU""}, {""name"": ""ส้มตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ไอศรีมมะพร้าว"", ""sentiment"": ""POS""}]",1.182
+R0191,gemini,True,True,"[{""name"": ""ข้าวหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""บะหมี่แห้งหมูแดง"", ""sentiment"": ""NEU""}]",0.918
+R0192,gemini,True,False,[],1.099
+R0193,gemini,True,False,[],1.071
+R0194,gemini,True,False,[],1.23
+R0195,gemini,True,False,[],0.983
+R0196,gemini,True,True,"[{""name"": ""ข้าวเหนียว"", ""sentiment"": ""POS""}, {""name"": ""ปีกไก่ย่าง"", ""sentiment"": ""MIX""}, {""name"": ""ส้มตำไทย"", ""sentiment"": ""MIX""}, {""name"": ""ปลากระพงทอดกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""ยำผักบุ้งกุ้งสด"", ""sentiment"": ""NEG""}, {""name"": ""กุ้งทอด"", ""sentiment"": ""NEG""}, {""name"": ""น้ำตกหมู"", ""sentiment"": ""POS""}, {""name"": ""ต้มแซ่บกระดูกอ่อน"", ""sentiment"": ""POS""}, {""name"": ""ผัดขนมจีน"", ""sentiment"": ""NEG""}]",1.257
+R0197,gemini,True,False,[],1.109
+R0198,gemini,True,False,[],1.162
+R0199,gemini,True,True,"[{""name"": ""ยำปลาดุกฟู"", ""sentiment"": ""POS""}]",1.231
+R0200,gemini,True,True,"[{""name"": ""เป็ดปักกิ่ง"", ""sentiment"": ""NEG""}, {""name"": ""บะหมี่ขาเป็ด"", ""sentiment"": ""NEG""}, {""name"": ""กระเพาะปลาผัดแห้ง"", ""sentiment"": ""NEG""}, {""name"": ""ปลา กระพงนึ่งมะนาว"", ""sentiment"": ""NEG""}, {""name"": ""กระเพาะปลา"", ""sentiment"": ""NEU""}, {""name"": ""แป๊ะก๊วยนมสด"", ""sentiment"": ""NEU""}]",0.98
+R0201,gemini,True,True,"[{""name"": ""อั่วกบ"", ""sentiment"": ""POS""}, {""name"": ""ปลาทับทิมนึ่ง"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำปลาร้า"", ""sentiment"": ""POS""}]",1.165
+R0202,gemini,True,True,"[{""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""POS""}, {""name"": ""ปลาช่อนทอดน้ำปลา"", ""sentiment"": ""POS""}, {""name"": ""ห่อหมกพุงปลา"", ""sentiment"": ""POS""}]",1.112
+R0203,gemini,True,True,"[{""name"": ""ข้าวราดปลาหมึกผัดพริกเผา"", ""sentiment"": ""POS""}, {""name"": ""ข้าวราดหมูกรอบผัดพริกแกง"", ""sentiment"": ""POS""}, {""name"": ""ไก่ทอดน้ำปลา"", ""sentiment"": ""POS""}]",1.508
+R0204,gemini,True,False,[],25.465
+R0205,gemini,True,False,[],0.946
+R0206,gemini,True,True,"[{""name"": ""น้ำพริก"", ""sentiment"": ""POS""}]",1.023
+R0207,gemini,True,True,"[{""name"": ""แกงเหลือง"", ""sentiment"": ""POS""}]",0.979
+R0208,gemini,True,True,"[{""name"": ""ผัดผักบุ้งไฟแดง"", ""sentiment"": ""NEU""}, {""name"": ""หมูกระเทียม"", ""sentiment"": ""NEU""}]",1.45
+R0209,gemini,True,True,"[{""name"": ""ข้าวมันไก่ตอนพิเศษ"", ""sentiment"": ""POS""}, {""name"": ""ข้าวมันไก่"", ""sentiment"": ""POS""}, {""name"": ""ข้าวมันไก่เนื้อนุ่ม"", ""sentiment"": ""POS""}, {""name"": ""ข้าวมันไก่"", ""sentiment"": ""POS""}]",1.622
+R0210,gemini,True,True,"[{""name"": ""กรรเชียงปูผัดพริกเหลือง"", ""sentiment"": ""MIX""}, {""name"": ""เมี่ยงคำ"", ""sentiment"": ""NEU""}]",0.963
+R0211,gemini,True,True,"[{""name"": ""เนย-วิปครีมโอรีโอลาวา"", ""sentiment"": ""POS""}, {""name"": ""ข้าวต้ม-กระดูกเล้ง"", ""sentiment"": ""POS""}, {""name"": ""ปังเย็นน้ำแดง วิปครีม+คอนเฟรค"", ""sentiment"": ""POS""}, {""name"": ""ก๋วยเตี๋ยวหมูต้มยำ"", ""sentiment"": ""POS""}, {""name"": ""เกาเหลาเลือดหมู"", ""sentiment"": ""POS""}, {""name"": ""โจ๊ก"", ""sentiment"": ""POS""}, {""name"": ""ยำรสแซ่บ"", ""sentiment"": ""POS""}]",1.64
+R0212,gemini,True,False,[],1.198
+R0213,gemini,True,False,[],1.145
+R0214,gemini,True,True,"[{""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำหลวงพระบางถาด"", ""sentiment"": ""POS""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}, {""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}, {""name"": ""ปลานิลเผาเกลือ"", ""sentiment"": ""POS""}, {""name"": ""ตำซั่วแซ่บวัน"", ""sentiment"": ""NEU""}]",1.202
+R0215,gemini,True,False,[],1.062
+R0216,gemini,True,True,"[{""name"": ""ก๋วยจั๊บญวน"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวเกรียบปากหม้อ"", ""sentiment"": ""NEU""}, {""name"": ""ตำซั่ว"", ""sentiment"": ""NEG""}, {""name"": ""ยำหมูยอ"", ""sentiment"": ""MIX""}]",1.148
+R0217,gemini,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""NEU""}]",1.116
+R0218,gemini,True,False,[],0.865
+R0219,gemini,True,False,[],0.941
+R0220,gemini,True,True,"[{""name"": ""ส้มตำไทย"", ""sentiment"": ""NEU""}, {""name"": ""อกไก่ย่าง"", ""sentiment"": ""POS""}, {""name"": ""ไก่ย่างขมิ้น"", ""sentiment"": ""POS""}, {""name"": ""น้ำจิ้มแจ่ว"", ""sentiment"": ""POS""}]",1.425
+R0221,gemini,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำไทย"", ""sentiment"": ""POS""}, {""name"": ""ลาบทูน่า"", ""sentiment"": ""POS""}, {""name"": ""สันในไก่ข้าวโพดทอด"", ""sentiment"": ""POS""}]",1.703
+R0222,gemini,True,True,"[{""name"": ""สปาเก็ตตี้กับร้านทอดในซอสขาว"", ""sentiment"": ""POS""}, {""name"": ""เค้กใบเตย"", ""sentiment"": ""POS""}]",1.121
+R0223,gemini,True,False,[],0.968
+R0224,gemini,True,False,[],0.937
+R0225,gemini,True,True,"[{""name"": ""คะน้าหมูกรอบราดข้าว"", ""sentiment"": ""POS""}, {""name"": ""สเต็กหมูพริกไทยดำ"", ""sentiment"": ""POS""}, {""name"": ""ผักหวานผัดกุ้งราดข้าว"", ""sentiment"": ""POS""}, {""name"": ""ไข่กระทะ"", ""sentiment"": ""POS""}, {""name"": ""ข้าวหน้าน้ำตกคอหมู"", ""sentiment"": ""POS""}, {""name"": ""ก๋วยเตี๋ยวคั่วไก่"", ""sentiment"": ""POS""}]",1.243
+R0226,gemini,True,False,[],0.984
+R0227,gemini,True,True,"[{""name"": ""ข้าวผัดกระเทียมปลาแซลมอน"", ""sentiment"": ""MIX""}, {""name"": ""ข้าวปลากระพงย่าง ซุปดาชิ"", ""sentiment"": ""POS""}]",0.971
+R0228,gemini,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""กุ้งเต้น"", ""sentiment"": ""POS""}, {""name"": ""ลาบเป็ดร้อยเอ็ด"", ""sentiment"": ""NEU""}, {""name"": ""ปลาเผา"", ""sentiment"": ""NEU""}, {""name"": ""ซอยจุ๊"", ""sentiment"": ""NEU""}]",1.24
+R0229,gemini,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""POS""}]",1.116
+R0230,gemini,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""MIX""}, {""name"": ""ผัดผักบุ้งไทย"", ""sentiment"": ""POS""}]",0.868
+R0231,gemini,True,False,[],1.57
+R0232,gemini,True,True,"[{""name"": ""ซุป"", ""sentiment"": ""NEG""}, {""name"": ""ลูกชิ้น"", ""sentiment"": ""NEG""}]",0.991
+R0233,gemini,True,True,"[{""name"": ""หมูย่าง"", ""sentiment"": ""NEG""}]",0.841
+R0234,gemini,True,False,[],0.809
+R0235,gemini,True,False,[],0.972
+R0236,gemini,True,True,"[{""name"": ""ข้าวผัดรถไฟ"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""แกงเขียวหวาน"", ""sentiment"": ""POS""}, {""name"": ""คั่วกลิ้ง"", ""sentiment"": ""POS""}]",1.049
+R0237,gemini,True,True,"[{""name"": ""ไข่ตุ๋นหม้อไฟ"", ""sentiment"": ""POS""}, {""name"": ""ปลากะพงสามรส"", ""sentiment"": ""POS""}, {""name"": ""กุ้งทอดซอสมะขาม"", ""sentiment"": ""POS""}, {""name"": ""ผัดผักรวม ทะเลรวมมิตร"", ""sentiment"": ""POS""}]",1.017
+R0238,gemini,True,True,"[{""name"": ""ยำหมูกรอบวาซาบิ"", ""sentiment"": ""MIX""}, {""name"": ""ซี่โครงหมูตุ๋นพริกไทยดำ"", ""sentiment"": ""POS""}]",1.405
+R0239,gemini,True,False,[],1.672
+R0240,gemini,True,False,[],1.115
+R0241,gemini,True,False,[],1.044
+R0242,gemini,True,True,"[{""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}]",1.005
+R0243,gemini,True,False,[],1.182
+R0244,gemini,True,False,[],1.035
+R0245,gemini,True,False,[],0.88
+R0246,gemini,True,True,"[{""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำปลากะพงน้ำใส"", ""sentiment"": ""POS""}, {""name"": ""หอยแคงลวก"", ""sentiment"": ""POS""}, {""name"": ""กุ้งเผา"", ""sentiment"": ""POS""}, {""name"": ""ปูนึ่ง"", ""sentiment"": ""POS""}]",1.374
+R0247,gemini,True,True,"[{""name"": ""ซุปเยื่อไผ่"", ""sentiment"": ""POS""}]",0.926
+R0248,gemini,True,True,"[{""name"": ""แกงเขียวหวาน"", ""sentiment"": ""POS""}]",1.097
+R0249,gemini,True,True,"[{""name"": ""ผัดไทย"", ""sentiment"": ""POS""}]",1.088
+R0250,gemini,True,True,"[{""name"": ""ปลาหมึกนึ่งมะนาว"", ""sentiment"": ""POS""}, {""name"": ""หอยหลอดผัดฉ่า"", ""sentiment"": ""POS""}, {""name"": ""ทอดมันปลากราย"", ""sentiment"": ""NEU""}, {""name"": ""ปลาดุกฟู"", ""sentiment"": ""POS""}, {""name"": ""ตำไทย"", ""sentiment"": ""NEU""}]",1.163
+R0251,gemini,True,False,[],1.864
+R0252,gemini,True,True,"[{""name"": ""ขาวซอยหมู"", ""sentiment"": ""MIX""}]",1.181
+R0253,gemini,True,True,"[{""name"": ""ยำหอยนางรม"", ""sentiment"": ""NEU""}, {""name"": ""ปลาหมึกแดดเดียว"", ""sentiment"": ""NEU""}, {""name"": ""ขออีกจาน"", ""sentiment"": ""NEU""}, {""name"": ""หมูกรอบผัดพริกกลือ"", ""sentiment"": ""NEU""}, {""name"": ""แกงคั่วเนื้อปูก้อน"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งอบวุ้นเส้น"", ""sentiment"": ""NEU""}, {""name"": ""ปลากะพงทอดตะไคร้"", ""sentiment"": ""NEU""}]",1.253
+R0254,gemini,True,True,"[{""name"": ""กุ้งแช่น้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปูผัดผงกระรี่"", ""sentiment"": ""NEU""}, {""name"": ""หมึกผัดไข่เค็ม"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งผัดผงกะหรี่"", ""sentiment"": ""NEU""}, {""name"": ""หมึกไข่นึ่งมะนาว"", ""sentiment"": ""NEU""}]",1.208
+R0255,gemini,True,True,"[{""name"": ""แหนมเนือง"", ""sentiment"": ""POS""}, {""name"": ""ปากหม้อญวณ"", ""sentiment"": ""POS""}, {""name"": ""ก๋วยจั๊บญวณ"", ""sentiment"": ""POS""}]",1.39
+R0256,gemini,True,True,"[{""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ต้มส้มปลากระบอก"", ""sentiment"": ""NEU""}, {""name"": ""ฮอยจ๋อ"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}, {""name"": ""ต้มส้มปลากรบอก"", ""sentiment"": ""POS""}, {""name"": ""ยำหอยนางรม"", ""sentiment"": ""NEU""}, {""name"": ""หมึกกุ้งชุบแป้งทอด"", ""sentiment"": ""POS""}]",1.467
+R0257,gemini,True,True,"[{""name"": ""แกงเขียวหวานเนื้อ"", ""sentiment"": ""NEU""}, {""name"": ""แกงพะแนงหมู"", ""sentiment"": ""NEU""}]",1.11
+R0258,gemini,True,True,"[{""name"": ""ติ่มซำ"", ""sentiment"": ""POS""}, {""name"": ""ไข่ลวก"", ""sentiment"": ""POS""}]",0.97
+R0259,gemini,True,True,"[{""name"": ""ต้มยำปลา"", ""sentiment"": ""POS""}]",1.014
+R0260,gemini,True,True,"[{""name"": ""บาร์บีคิวซี่โครงหมู"", ""sentiment"": ""NEU""}, {""name"": ""สลักผักรวม"", ""sentiment"": ""NEU""}, {""name"": ""สปาเก็ตตี้เส้นดำกระเทียมพริกแห้งซีฟู๊ต"", ""sentiment"": ""NEU""}, {""name"": ""Tortillas Pizza"", ""sentiment"": ""NEU""}, {""name"": ""เบอเกอร์เนื้อ"", ""sentiment"": ""POS""}]",1.174
+R0261,gemini,True,True,"[{""name"": ""จิ้มจุ่ม"", ""sentiment"": ""MIX""}]",0.83
+R0262,gemini,True,True,"[{""name"": ""ก๋วยเตี๋ยวไก่ตุ๋น"", ""sentiment"": ""POS""}]",0.811
+R0263,gemini,True,False,[],1.078
+R0264,gemini,True,True,"[{""name"": ""ผัดฉ่ากามหอย"", ""sentiment"": ""NEU""}, {""name"": ""ปลาเก๋าราดพริก"", ""sentiment"": ""NEU""}, {""name"": ""ผัดผักรวมมิตร"", ""sentiment"": ""NEU""}]",1.173
+R0265,gemini,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}, {""name"": ""ยำลาวไข่แดงเค็มดิบ"", ""sentiment"": ""NEU""}, {""name"": ""ตำไข่เค็ม"", ""sentiment"": ""NEU""}]",1.449
+R0266,gemini,True,True,"[{""name"": ""หมาล่า"", ""sentiment"": ""POS""}, {""name"": ""ผงหมาล่า"", ""sentiment"": ""NEU""}, {""name"": ""น้ำจิ้ม"", ""sentiment"": ""NEU""}]",0.894
+R0267,gemini,True,False,[],1.384
+R0268,gemini,True,True,"[{""name"": ""ปอเปี๊ยะกรอบกุ้ง"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดน้ำพริกปลาทู"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำ"", ""sentiment"": ""POS""}]",1.133
+R0269,gemini,True,False,[],0.996
+R0270,gemini,True,False,[],1.066
+R0271,gemini,True,True,"[{""name"": ""Grilled Snapper"", ""sentiment"": ""NEU""}, {""name"": ""สปาเก็ตตี้"", ""sentiment"": ""NEU""}, {""name"": ""Grilled Seabass"", ""sentiment"": ""NEU""}, {""name"": ""Chicken Teriyaki Nachos"", ""sentiment"": ""NEU""}, {""name"": ""นาโช่ชีส"", ""sentiment"": ""POS""}, {""name"": ""พาสต้า"", ""sentiment"": ""POS""}]",1.154
+R0272,gemini,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""น้ำตกคอหมู"", ""sentiment"": ""POS""}, {""name"": ""หอยแครง"", ""sentiment"": ""POS""}]",1.106
+R0273,gemini,True,False,[],0.871
+R0274,gemini,True,False,[],1.256
+R0275,gemini,True,True,"[{""name"": ""ก๋วยเตี๋ยวน้ำตก"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวกะเพรา"", ""sentiment"": ""NEU""}]",1.114
+R0276,gemini,True,False,[],1.411
+R0277,gemini,True,False,[],0.957
+R0278,gemini,True,True,"[{""name"": ""เค้ก"", ""sentiment"": ""POS""}, {""name"": ""Ice Orange Espresso"", ""sentiment"": ""NEU""}, {""name"": ""Mixed Berry Grumble Cheese"", ""sentiment"": ""NEU""}, {""name"": ""นักเก็ต + เฟรนซ์ฟราย"", ""sentiment"": ""NEU""}, {""name"": ""เค้กมะพร้าว"", ""sentiment"": ""NEU""}]",1.337
+R0279,gemini,True,True,"[{""name"": ""นกกระจอกผัดพริกไทยดำ"", ""sentiment"": ""POS""}, {""name"": ""ไก่ผัดเม็ดมะม่วง"", ""sentiment"": ""POS""}]",1.204
+R0280,gemini,True,False,[],1.058
+R0281,gemini,True,False,[],1.018
+R0282,gemini,True,True,"[{""name"": ""ห่อหมกทะเลมะพร้าวอ่อน"", ""sentiment"": ""POS""}, {""name"": ""ออส่วนกรอบ"", ""sentiment"": ""POS""}, {""name"": ""ตำมังคุด"", ""sentiment"": ""POS""}, {""name"": ""กระพงลุยสวย"", ""sentiment"": ""NEG""}]",1.29
+R0283,gemini,True,True,"[{""name"": ""น้ำพริกไข่ปู"", ""sentiment"": ""POS""}]",0.948
+R0284,gemini,True,False,[],1.008
+R0285,gemini,True,True,"[{""name"": ""สเต็กไก่"", ""sentiment"": ""NEG""}]",1.072
+R0286,gemini,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",1.153
+R0287,gemini,True,True,"[{""name"": ""ข้าวไข่ข้นกุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งเหยียด ชุด 5 ไม้"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวปลากะพงทอดคั่วพริกเกลือ"", ""sentiment"": ""NEU""}, {""name"": ""ยำเกี๊ยวกรอบกุ้งสับ"", ""sentiment"": ""NEU""}]",1.317
+R0288,gemini,True,True,"[{""name"": ""ใบเหลียงผัดไข่"", ""sentiment"": ""POS""}, {""name"": ""เนื้อปลาเก๋านึ่งซีอิ๊ว"", ""sentiment"": ""POS""}, {""name"": ""สามชั้นทอดน้ำปลา"", ""sentiment"": ""POS""}]",0.962
+R0289,gemini,True,True,"[{""name"": ""แกงส้ม"", ""sentiment"": ""NEG""}]",1.017
+R0290,gemini,True,True,"[{""name"": ""ส้มตำชมนา"", ""sentiment"": ""POS""}, {""name"": ""ห่อหมกทะเล"", ""sentiment"": ""POS""}]",1.088
+R0291,gemini,True,False,[],0.841
+R0292,gemini,True,False,[],0.906
+R0293,gemini,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""NEU""}]",0.881
+R0294,gemini,True,False,[],1.235
+R0295,gemini,True,True,"[{""name"": ""ห่อหมกทะเลมะพร้าวอ่อน"", ""sentiment"": ""POS""}, {""name"": ""ปูนิ่มผัดพริกไทยดำ"", ""sentiment"": ""POS""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""POS""}, {""name"": ""ไข่เจียวธรรมดา"", ""sentiment"": ""POS""}]",1.11
+R0296,gemini,True,False,[],1.266
+R0297,gemini,True,True,"[{""name"": ""ก๋วยเตี๋ยวเป็ดตุ๋น"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวเป็ดย่างหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""เป็ดย่าง"", ""sentiment"": ""NEU""}]",1.234
+R0298,gemini,True,True,"[{""name"": ""ข้าวมันไก่พิเศษ"", ""sentiment"": ""POS""}]",0.99
+R0299,gemini,True,True,"[{""name"": ""สลัด"", ""sentiment"": ""POS""}, {""name"": ""พาสต้า"", ""sentiment"": ""POS""}]",1.076
+R0300,gemini,True,True,"[{""name"": ""แกงกะทิเนื้อโบราณ"", ""sentiment"": ""POS""}]",1.139
+R0001,groq,True,False,[],0.624
+R0002,groq,True,False,[],0.59
+R0003,groq,True,True,"[{""name"": ""ก๋วยเตี๋ยวเรือ"", ""sentiment"": ""POS""}, {""name"": ""ผัดซีอิ๊ว"", ""sentiment"": ""POS""}]",0.547
+R0004,groq,True,True,"[{""name"": ""ปลากะพงทอดน้ำปลา"", ""sentiment"": ""POS""}]",0.776
+R0005,groq,True,False,[],0.632
+R0006,groq,True,False,[],0.575
+R0007,groq,True,True,"[{""name"": ""ต้มยำน้ำข้น"", ""sentiment"": ""POS""}, {""name"": ""กุ้งทอดกระเทียม"", ""sentiment"": ""POS""}]",0.678
+R0008,groq,True,True,"[{""name"": ""ข้าวหมูแดง"", ""sentiment"": ""POS""}, {""name"": ""ข้าวขาหมู"", ""sentiment"": ""POS""}]",0.72
+R0009,groq,True,True,"[{""name"": ""Kani Miso"", ""sentiment"": ""POS""}, {""name"": ""Hotate Truffle ball"", ""sentiment"": ""POS""}]",1.293
+R0010,groq,True,False,[],0.624
+R0011,groq,True,False,[],0.582
+R0012,groq,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""NEU""}, {""name"": ""ข้าว"", ""sentiment"": ""NEU""}, {""name"": ""เครป"", ""sentiment"": ""NEU""}, {""name"": ""ขนมปังปิ้ง"", ""sentiment"": ""NEU""}]",1.013
+R0013,groq,True,False,[],0.587
+R0014,groq,True,True,"[{""name"": ""ยำถั่วพลู"", ""sentiment"": ""NEU""}, {""name"": ""ส้มตำผลไม้"", ""sentiment"": ""NEU""}, {""name"": ""ต้มแซ่บกระดูกอ่อนเอ็นแก้ว"", ""sentiment"": ""NEU""}, {""name"": ""ส้มตำปูปลาร้า นัวเวอร์"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวผัดเนื้อเค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ปลากะพงทอดน้ำปลา"", ""sentiment"": ""NEU""}]",1.074
+R0015,groq,True,True,"[{""name"": ""พอร์คชอป"", ""sentiment"": ""POS""}]",0.713
+R0016,groq,True,False,[],0.734
+R0017,groq,True,False,[],0.593
+R0018,groq,True,False,[],0.879
+R0019,groq,True,True,"[{""name"": ""ต้มยำกุ้งมะพร้าวอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมอทะเล"", ""sentiment"": ""NEU""}, {""name"": ""มะระผักไข่"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำ"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมกทะเล"", ""sentiment"": ""NEU""}]",1.408
+R0020,groq,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",0.654
+R0021,groq,True,True,"[{""name"": ""ข้าวมันกุ้งไข่ข้น"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวกุ้งแกะราดมันกุ้ง"", ""sentiment"": ""NEU""}]",0.979
+R0022,groq,True,True,"[{""name"": ""ติ่มซำ"", ""sentiment"": ""POS""}, {""name"": ""บะกุดเต๋"", ""sentiment"": ""POS""}]",0.637
+R0023,groq,True,False,[],2.646
+R0024,groq,True,True,"[{""name"": ""พิซซ่า"", ""sentiment"": ""POS""}]",3.812
+R0025,groq,True,False,[],5.865
+R0026,groq,True,False,[],1.642
+R0027,groq,True,True,"[{""name"": ""หอยแครงลวก"", ""sentiment"": ""POS""}, {""name"": ""กุ้งแช่น้ำปลา"", ""sentiment"": ""POS""}]",1.894
+R0028,groq,True,True,"[{""name"": ""ริซอตโต้อ"", ""sentiment"": ""NEU""}]",3.13
+R0029,groq,True,False,[],4.903
+R0030,groq,True,False,[],3.857
+R0031,groq,True,True,"[{""name"": ""ขนมจีนน้ำยากะทิ"", ""sentiment"": ""POS""}]",4.777
+R0032,groq,True,False,[],4.603
+R0033,groq,True,False,[],4.685
+R0034,groq,True,True,"[{""name"": ""ข้าวผัด"", ""sentiment"": ""NEU""}, {""name"": ""ปูผัดพริก"", ""sentiment"": ""NEU""}, {""name"": ""ผัดผัก"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""NEU""}]",4.048
+R0035,groq,True,True,"[{""name"": ""ต้มยำ"", ""sentiment"": ""POS""}, {""name"": ""ปลาเก๋า"", ""sentiment"": ""POS""}, {""name"": ""หมี่ฮ่องกง"", ""sentiment"": ""POS""}]",4.057
+R0036,groq,True,True,"[{""name"": ""ผัดผักหวาน"", ""sentiment"": ""NEU""}]",4.264
+R0037,groq,True,True,"[{""name"": ""ออส่วนนิ่ม"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัด"", ""sentiment"": ""POS""}, {""name"": ""แกงปูใบชะคราม"", ""sentiment"": ""POS""}]",4.495
+R0038,groq,True,False,[],3.737
+R0039,groq,True,False,[],1.843
+R0040,groq,True,False,[],3.897
+R0041,groq,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",4.735
+R0042,groq,True,True,"[{""name"": ""ไข่ตุ๋น"", ""sentiment"": ""NEG""}, {""name"": ""เสต็กเนื้อ"", ""sentiment"": ""POS""}]",4.88
+R0043,groq,True,False,[],2.7
+R0044,groq,True,False,[],2.835
+R0045,groq,True,True,"[{""name"": ""เห็ดหอมทอด"", ""sentiment"": ""POS""}, {""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ตำไทย"", ""sentiment"": ""MIX""}, {""name"": ""ตำข้าวโพดไข่เค็ม"", ""sentiment"": ""MIX""}, {""name"": ""ตับหวาน"", ""sentiment"": ""POS""}]",4.572
+R0046,groq,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""POS""}]",4.882
+R0047,groq,True,True,"[{""name"": ""ซุปกิมจิ"", ""sentiment"": ""POS""}]",1.778
+R0048,groq,True,True,"[{""name"": ""เบอร์เกอร์ชิ้นใหญ่"", ""sentiment"": ""POS""}]",5.2
+R0049,groq,True,True,"[{""name"": ""จิ้มจุ่มทะเล"", ""sentiment"": ""POS""}, {""name"": ""ไส้กรอกปลาอินทรีย์"", ""sentiment"": ""POS""}, {""name"": ""ไก่นาทอดตะไคร้"", ""sentiment"": ""POS""}, {""name"": ""ข้าวต้ม"", ""sentiment"": ""POS""}]",5.043
+R0050,groq,True,True,"[{""name"": ""ขาหมู"", ""sentiment"": ""POS""}, {""name"": ""ไข่ต้ม"", ""sentiment"": ""POS""}, {""name"": ""ผักดอง"", ""sentiment"": ""NEG""}, {""name"": ""พริกน้ำส้ม"", ""sentiment"": ""NEG""}]",4.425
+R0051,groq,True,False,[],4.782
+R0052,groq,True,True,"[{""name"": ""ข้าวผัด"", ""sentiment"": ""NEU""}, {""name"": ""ปูผัดพริก"", ""sentiment"": ""NEG""}, {""name"": ""ผัดผัก"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""หอยเชลล์"", ""sentiment"": ""NEG""}]",6.243
+R0053,groq,True,False,[],3.731
+R0054,groq,True,True,"[{""name"": ""ต้มส้มปลากระบอก"", ""sentiment"": ""POS""}, {""name"": ""ปลาตะเพียนต้มเค็ม"", ""sentiment"": ""POS""}, {""name"": ""มะระต้มหมูสับ"", ""sentiment"": ""POS""}, {""name"": ""มะระตุ๋น"", ""sentiment"": ""POS""}, {""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}, {""name"": ""เฉาก๊วย"", ""sentiment"": ""POS""}]",5.553
+R0055,groq,True,False,[],2.674
+R0056,groq,True,True,"[{""name"": ""แซลม"", ""sentiment"": ""POS""}, {""name"": ""ทูน่า"", ""sentiment"": ""POS""}]",5.304
+R0057,groq,True,True,"[{""name"": ""ปีกไก่เหล้าแดง"", ""sentiment"": ""NEU""}, {""name"": ""ยำหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""กะหล่ำน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""กั้งซาชิมิ"", ""sentiment"": ""NEU""}, {""name"": ""กั้งกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""ปลาหิมะนึ่งซีอิ๊วไข่ตุ๋น"", ""sentiment"": ""NEU""}, {""name"": ""ออส่วน"", ""sentiment"": ""NEU""}, {""name"": ""หอยแครงลวก"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งมังกร 7 สีซาซิมิเนื้อหวานเจี๊ยบ"", ""sentiment"": ""NEU""}]",4.468
+R0058,groq,True,True,"[{""name"": ""ต้มยำกุ้งมะพร้าวอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมอทะเล"", ""sentiment"": ""NEU""}, {""name"": ""มะระผักไข่"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำ"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมกทะเล"", ""sentiment"": ""NEU""}]",5.424
+R0059,groq,True,False,[],6.872
+R0060,groq,True,True,"[{""name"": ""ทอดมันหน่อกะลา"", ""sentiment"": ""NEU""}, {""name"": ""แกงขี้เหล็ก"", ""sentiment"": ""POS""}]",3.123
+R0061,groq,True,True,"[{""name"": ""พายมะพร้าว ครีมสด"", ""sentiment"": ""POS""}]",2.595
+R0062,groq,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}]",4.856
+R0063,groq,True,True,"[{""name"": ""ไก่บ้านทอดเกลือ"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงนึ่งมะนาว"", ""sentiment"": ""NEG""}, {""name"": ""ปีกไก่ทอดเกลือ"", ""sentiment"": ""POS""}]",7.527
+R0064,groq,True,False,[],2.76
+R0065,groq,True,False,[],2.802
+R0066,groq,True,True,"[{""name"": ""พล่ากุแลสด"", ""sentiment"": ""POS""}, {""name"": ""ฉูฉี่หมอทะเล"", ""sentiment"": ""POS""}, {""name"": ""หมึกต้มน้ำ"", ""sentiment"": ""POS""}, {""name"": ""หอยจ้อปูรสชาด"", ""sentiment"": ""MIX""}, {""name"": ""ข้าวผัดปลาโอ"", ""sentiment"": ""POS""}]",4.573
+R0067,groq,True,True,"[{""name"": ""แกงส้มชะอมไข่พร้อมด้วยไข่ปลาเม็ดใหญ่"", ""sentiment"": ""POS""}]",3.914
+R0068,groq,True,False,[],2.794
+R0069,groq,True,True,"[{""name"": ""ปูหลน"", ""sentiment"": ""POS""}, {""name"": ""หมึกผัดกะปิ"", ""sentiment"": ""POS""}, {""name"": ""ปูผัดพริกไทยดำ"", ""sentiment"": ""POS""}, {""name"": ""หมึกไข่ผัดกะปิ"", ""sentiment"": ""POS""}, {""name"": ""เมี่ยงปลากะพง"", ""sentiment"": ""POS""}, {""name"": ""ปลาหมึกผัดกะปิใส่สะตอ"", ""sentiment"": ""POS""}, {""name"": ""หลนปูเค็ม"", ""sentiment"": ""POS""}, {""name"": ""ปลากะพงสมุนไพรใบชะพลู"", ""sentiment"": ""POS""}]",4.315
+R0070,groq,True,False,[],3.621
+R0071,groq,True,True,"[{""name"": ""ผัดเผ็ดเป็ด"", ""sentiment"": ""NEU""}, {""name"": ""ไก่ผัดกระเทียม"", ""sentiment"": ""POS""}]",4.317
+R0072,groq,True,True,"[{""name"": ""แกงป่ากุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""ไส้อั่วทำเอง"", ""sentiment"": ""NEU""}, {""name"": ""ผัดกระเพรา"", ""sentiment"": ""NEU""}, {""name"": ""มัสมั่นไก่"", ""sentiment"": ""NEU""}, {""name"": ""ขาหมูไข่พะโล้"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อตุ๋น"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""ผัดคะน้าปลาเค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ไข่เจียวธรรมดา"", ""sentiment"": ""NEU""}, {""name"": ""ชาไทย แท้(ทำเอง)"", ""sentiment"": ""NEU""}]",4.604
+R0073,groq,True,True,"[{""name"": ""ไก่ย่างหนังกรอบ"", ""sentiment"": ""POS""}]",3.812
+R0074,groq,True,True,"[{""name"": ""ข้าวต้มกุ๊ย"", ""sentiment"": ""POS""}]",2.805
+R0075,groq,True,True,"[{""name"": ""โจ๊กหมูเครื่องใน"", ""sentiment"": ""POS""}]",2.927
+R0076,groq,True,False,[],1.782
+R0077,groq,True,True,"[{""name"": ""หอยแครงแกงใบชะพลู"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำเนื้อปลาน้ำข้น"", ""sentiment"": ""NEU""}, {""name"": ""หอยแครงลวก"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งแช่น้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปลาหมึกผัดไข่เค็ม"", ""sentiment"": ""NEU""}]",3.102
+R0078,groq,True,True,"[{""name"": ""ฉ่าก๋วยเตี๋ยว Char Kway Teaw"", ""sentiment"": ""NEU""}, {""name"": ""ลักซา Laksa"", ""sentiment"": ""NEU""}, {""name"": ""บัคกุ๊ดเต๋ Bak Kut Teh"", ""sentiment"": ""NEU""}, {""name"": ""หมูสะเต๊ะ Pork Satay"", ""sentiment"": ""NEU""}, {""name"": ""ปลาเก๋าต้มเกี๊ยมฉ่ายเสฉวน"", ""sentiment"": ""NEU""}, {""name"": ""ปลาเก๋าต้มเกี๊ยมฉ่าเสฉวน"", ""sentiment"": ""NEU""}]",4.287
+R0079,groq,True,False,[],4.75
+R0080,groq,True,False,[],1.859
+R0081,groq,True,True,"[{""name"": ""แกงรัญจวน"", ""sentiment"": ""POS""}, {""name"": ""หมูสามชั้นผัดกะปิ"", ""sentiment"": ""POS""}]",2.816
+R0082,groq,True,False,[],4.761
+R0083,groq,True,True,"[{""name"": ""กุ้งผัดพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""หมึกไข่นึ่งมะนาว"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อปลากระพงผัดฉ่า"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อปูผัดผงกะหรี่"", ""sentiment"": ""NEU""}, {""name"": ""สลัดผลไม้กุ้งทอด"", ""sentiment"": ""NEU""}, {""name"": ""เอ็นไก่ทอด"", ""sentiment"": ""NEU""}]",4.129
+R0084,groq,True,True,"[{""name"": ""หมูผัดน้ำมันหอย"", ""sentiment"": ""POS""}, {""name"": ""ฮ่อยจ๊อปู"", ""sentiment"": ""POS""}, {""name"": ""กุ้งผัดพริกเกลือ"", ""sentiment"": ""POS""}, {""name"": ""กุ้งหมึกผัดกระเทียม"", ""sentiment"": ""POS""}, {""name"": ""สุกี้ทะเล"", ""sentiment"": ""POS""}, {""name"": ""กุ้งหมึกผัดผงกะหรี่"", ""sentiment"": ""POS""}]",5.472
+R0085,groq,True,True,"[{""name"": ""ไข่กระทะ"", ""sentiment"": ""POS""}]",4.809
+R0086,groq,True,True,"[{""name"": ""ยำปลาแซลมอน"", ""sentiment"": ""POS""}]",3.813
+R0087,groq,True,True,"[{""name"": ""ฉู่ฉี่ปลาหมอ"", ""sentiment"": ""NEU""}, {""name"": ""แกงเขียวหวานแห้งทะเล"", ""sentiment"": ""NEU""}, {""name"": ""แกงป่า ไก่บ้าน"", ""sentiment"": ""NEU""}, {""name"": ""ไข่เจียวหมูสับ"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อสับผัดยี่หร่า"", ""sentiment"": ""NEU""}]",5.893
+R0088,groq,True,True,"[{""name"": ""ข้าวหน้าเนื้แ"", ""sentiment"": ""NEU""}, {""name"": ""ไข่ดิบ"", ""sentiment"": ""NEU""}, {""name"": ""สันคอ"", ""sentiment"": ""NEU""}]",6.997
+R0089,groq,True,True,"[{""name"": ""ข้าวต้มรีฟิล"", ""sentiment"": ""POS""}]",5.884
+R0090,groq,True,True,"[{""name"": ""พิซซ่าเวียดนาม"", ""sentiment"": ""POS""}]",3.978
+R0091,groq,True,False,[],2.984
+R0092,groq,True,True,"[{""name"": ""คั่วกลิ้งปลา"", ""sentiment"": ""POS""}, {""name"": ""น้ำพริกกะปิ"", ""sentiment"": ""POS""}]",3.0
+R0093,groq,True,True,"[{""name"": ""แหนมเนือง"", ""sentiment"": ""NEU""}, {""name"": ""ทอดมันเวียดนาม"", ""sentiment"": ""NEU""}, {""name"": ""เฝอหมูยอ"", ""sentiment"": ""NEU""}, {""name"": ""ยำหมูยอหนัง"", ""sentiment"": ""NEU""}, {""name"": ""ขนมเบื้องญวน"", ""sentiment"": ""NEU""}, {""name"": ""ปากหม้อ"", ""sentiment"": ""NEU""}]",4.838
+R0094,groq,True,False,[],3.757
+R0095,groq,True,True,"[{""name"": ""Salmon mirin"", ""sentiment"": ""POS""}, {""name"": ""Hojicha basque cheesecake"", ""sentiment"": ""POS""}, {""name"": ""Eggplang miso"", ""sentiment"": ""NEU""}]",3.476
+R0096,groq,True,True,"[{""name"": ""คะน้าหมูกรอบราดข้าว"", ""sentiment"": ""POS""}, {""name"": ""สเต็กหมูพริกไทยดำ"", ""sentiment"": ""POS""}, {""name"": ""ผักหวานผัดกุ้งราดข้าว"", ""sentiment"": ""POS""}, {""name"": ""ไข่กระทะ"", ""sentiment"": ""POS""}, {""name"": ""ข้าวหน้าน้ำตกคอหมู"", ""sentiment"": ""POS""}, {""name"": ""ก๋วยเตี๋ยวคั่วไก่"", ""sentiment"": ""POS""}]",6.333
+R0097,groq,True,False,[],5.998
+R0098,groq,True,True,"[{""name"": ""แกงส้มชะอมไข่พร้อมด้วยไข่ปลาเม็ดใหญ่"", ""sentiment"": ""POS""}]",2.854
+R0099,groq,True,False,[],1.748
+R0100,groq,True,True,"[{""name"": ""ติ่มซำ"", ""sentiment"": ""POS""}, {""name"": ""บะกุดเต๋"", ""sentiment"": ""POS""}]",4.636
+R0101,groq,True,True,"[{""name"": ""ลาซาล"", ""sentiment"": ""NEU""}]",4.049
+R0102,groq,True,True,"[{""name"": ""จุ๋มทศกัณฐ์"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งทอดครีมมะนาว"", ""sentiment"": ""NEU""}, {""name"": ""ปลาแซลมอนฟู"", ""sentiment"": ""NEU""}, {""name"": ""ยำไส้"", ""sentiment"": ""NEU""}, {""name"": ""ยำผักบุ้งกรอบ"", ""sentiment"": ""NEU""}]",4.339
+R0103,groq,True,True,"[{""name"": ""ซุปเปอร์ขาไก่"", ""sentiment"": ""NEU""}, {""name"": ""ยำไข่เค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ผัดผักบุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""ไข่เค็ม"", ""sentiment"": ""NEU""}, {""name"": ""ซุปเปอร์ลูกทุ่ง"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำหัวพุงไข่ปลาช่อน"", ""sentiment"": ""NEU""}, {""name"": ""ปลาช่อนนาเผาสมุนไพร"", ""sentiment"": ""NEU""}, {""name"": ""หัวปลาหม้อไฟ"", ""sentiment"": ""NEU""}, {""name"": ""ปูม้าดอง"", ""sentiment"": ""NEU""}, {""name"": ""ปูนิ่มทอดกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""แมงดาทะเลเผา"", ""sentiment"": ""NEU""}]",4.388
+R0104,groq,True,False,[],6.917
+R0105,groq,True,False,[],1.887
+R0106,groq,True,True,"[{""name"": ""กอไก่ล้านตัว"", ""sentiment"": ""POS""}]",1.796
+R0107,groq,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}, {""name"": ""แกงส้ม"", ""sentiment"": ""NEU""}]",5.888
+R0108,groq,True,True,"[{""name"": ""ยำผักบุ้งกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปูนิ่มผัดพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวต้ม"", ""sentiment"": ""NEU""}, {""name"": ""ผัดผักบุ้งไฟแดง"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำรวมมิตรทะเลน้ำข้น"", ""sentiment"": ""NEU""}, {""name"": ""ปลารากกล้วย"", ""sentiment"": ""NEU""}, {""name"": ""ไข่หมึกกล้วยทอดกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งซอสมะขาม"", ""sentiment"": ""NEU""}]",7.003
+R0109,groq,True,False,[],3.69
+R0110,groq,True,True,"[{""name"": ""วาฟเฟิลไอศกรีม"", ""sentiment"": ""NEU""}]",3.577
+R0111,groq,True,True,"[{""name"": ""เนื้ิอสันนอกย่าง"", ""sentiment"": ""NEU""}, {""name"": ""ตำมั่วปูปลาร้า"", ""sentiment"": ""MIX""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}, {""name"": ""อ่อมหมู"", ""sentiment"": ""MIX""}, {""name"": ""ตับหวาน"", ""sentiment"": ""NEU""}]",4.91
+R0112,groq,True,False,[],4.041
+R0113,groq,True,True,"[{""name"": ""ปลากะพงทอดน้ำปลา"", ""sentiment"": ""POS""}, {""name"": ""ปูนิ่มทอดกระเทียม"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}]",3.71
+R0114,groq,True,True,"[{""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}, {""name"": ""ขนมจีบ"", ""sentiment"": ""POS""}, {""name"": ""สลัดกุ้ง"", ""sentiment"": ""POS""}]",2.84
+R0115,groq,True,False,[],3.754
+R0116,groq,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}, {""name"": ""ลาบเป็ด"", ""sentiment"": ""POS""}, {""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""NEU""}, {""name"": ""ยำกุ้งดอกสะเดา"", ""sentiment"": ""NEU""}, {""name"": ""ปลาทับทิม"", ""sentiment"": ""NEU""}]",3.098
+R0117,groq,True,True,"[{""name"": ""แหนมเนือง"", ""sentiment"": ""NEU""}, {""name"": ""ทอดมันเวียดนาม"", ""sentiment"": ""NEU""}, {""name"": ""เฝอหมูยอ"", ""sentiment"": ""NEU""}, {""name"": ""ยำหมูยอหนัง"", ""sentiment"": ""NEU""}, {""name"": ""ขนมเบื้องญวน"", ""sentiment"": ""NEU""}, {""name"": ""ปากหม้อ"", ""sentiment"": ""NEU""}]",5.174
+R0118,groq,True,True,"[{""name"": ""ปลานึ่งมะนาว"", ""sentiment"": ""POS""}]",3.386
+R0119,groq,True,True,"[{""name"": ""น้ำยาปู"", ""sentiment"": ""POS""}]",1.659
+R0120,groq,True,False,[],1.587
+R0121,groq,True,True,"[{""name"": ""ทะเลคลั่ง"", ""sentiment"": ""NEU""}, {""name"": ""ลาบแซลมอน"", ""sentiment"": ""NEU""}, {""name"": ""สหายสุรา"", ""sentiment"": ""NEU""}, {""name"": ""เห่าดง"", ""sentiment"": ""NEU""}]",5.941
+R0122,groq,True,True,"[{""name"": ""ผัดผักบุ้งไฟแดงหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""หมูแผ่นทอด"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อหอยลายผัดน้ำพริกเผา"", ""sentiment"": ""NEU""}]",3.04
+R0123,groq,True,False,[],2.75
+R0124,groq,True,True,"[{""name"": ""ปูนึ่ง"", ""sentiment"": ""POS""}]",3.877
+R0125,groq,True,True,"[{""name"": ""ปลาหิมะนึ่งบ๊วย"", ""sentiment"": ""NEU""}, {""name"": ""พุงปลาช่อนผัดขึ้นฉ่าย"", ""sentiment"": ""NEU""}, {""name"": ""ผัดหมี่ซั่วหมู เล็ก"", ""sentiment"": ""NEU""}, {""name"": ""ซี่โครงอรหันต์"", ""sentiment"": ""NEU""}, {""name"": ""หอยทอด"", ""sentiment"": ""NEU""}, {""name"": ""ออส่วน หอยนางรม"", ""sentiment"": ""NEU""}, {""name"": ""ยำวุ้นเส้น"", ""sentiment"": ""NEU""}, {""name"": ""เผือกหิมะ เล็ก"", ""sentiment"": ""NEU""}]",3.54
+R0126,groq,True,False,[],3.883
+R0127,groq,True,True,"[{""name"": ""หมูผัดกะปิ"", ""sentiment"": ""NEU""}]",4.845
+R0128,groq,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""POS""}]",5.225
+R0129,groq,True,False,[],3.033
+R0130,groq,True,False,[],1.819
+R0131,groq,True,True,"[{""name"": ""ปลาช่อนราดพริก"", ""sentiment"": ""POS""}, {""name"": ""กุ้งผัดพริกหยวก"", ""sentiment"": ""POS""}, {""name"": ""ผัดคะน้าปลาเค็ม"", ""sentiment"": ""POS""}, {""name"": ""เป็ดพะโล้ (ครึ่งตัว)"", ""sentiment"": ""POS""}, {""name"": ""ผัดเลือดใบคื่นไช่"", ""sentiment"": ""POS""}]",3.984
+R0132,groq,True,True,"[{""name"": ""ฮอกไกโด มิลค์"", ""sentiment"": ""POS""}, {""name"": ""เนื้อวากิวย่างแบบมีเดี่ยมแรมา"", ""sentiment"": ""POS""}, {""name"": ""ข้าว กระเพาเนื้อ"", ""sentiment"": ""POS""}, {""name"": ""ข้าวแกงกะหรี่"", ""sentiment"": ""POS""}, {""name"": ""ยำปลาแซลมอน"", ""sentiment"": ""POS""}, {""name"": ""ครีบปลาแซลมอน"", ""sentiment"": ""POS""}, {""name"": ""ปีกไก่ทอดกรอบๆ"", ""sentiment"": ""POS""}, {""name"": ""เพรสโต้"", ""sentiment"": ""POS""}]",4.618
+R0133,groq,True,False,[],6.776
+R0134,groq,True,True,"[{""name"": ""Black Truffle Soup"", ""sentiment"": ""POS""}, {""name"": ""Lamb Lagu"", ""sentiment"": ""POS""}, {""name"": ""Smoked Duck Breast"", ""sentiment"": ""NEU""}]",7.318
+R0135,groq,True,False,[],0.601
+R0136,groq,True,False,[],1.661
+R0137,groq,True,True,"[{""name"": ""ตำปูม้า"", ""sentiment"": ""POS""}, {""name"": ""หอยนางรมสด"", ""sentiment"": ""NEU""}, {""name"": ""ผัดฉ่าหอยเชลล์"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}, {""name"": ""กะหล่ำปลีผัดน้ำปลา"", ""sentiment"": ""MIX""}]",3.193
+R0138,groq,True,True,"[{""name"": ""หมึกนึ่งมะนาวรสแซ่บ"", ""sentiment"": ""POS""}]",6.158
+R0139,groq,True,False,[],2.901
+R0140,groq,True,True,"[{""name"": ""คอหมู ย่าง"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำหมูกรอบ"", ""sentiment"": ""POS""}, {""name"": ""ต้มแซ่บซี่โครง"", ""sentiment"": ""NEU""}, {""name"": ""ไก่ย่างขมิ้น"", ""sentiment"": ""NEU""}]",4.394
+R0141,groq,True,True,"[{""name"": ""แกงลูกชิ้นปลา"", ""sentiment"": ""POS""}, {""name"": ""พะโล้"", ""sentiment"": ""POS""}]",3.643
+R0142,groq,True,True,"[{""name"": ""น้ำพริกกะปิ+ผักสด"", ""sentiment"": ""NEU""}, {""name"": ""คั่วกลิ้งหมู"", ""sentiment"": ""NEU""}, {""name"": ""หมูกะปิ"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวคลุกกะปิ"", ""sentiment"": ""NEU""}, {""name"": ""ผัดไทย"", ""sentiment"": ""NEU""}]",3.001
+R0143,groq,True,False,[],4.807
+R0144,groq,True,True,"[{""name"": ""เมนูกระเพรา"", ""sentiment"": ""POS""}]",3.565
+R0145,groq,True,True,"[{""name"": ""สมูทตี้มะม่วง"", ""sentiment"": ""POS""}, {""name"": ""ข้าวเหนียวมะม่วง"", ""sentiment"": ""POS""}]",4.82
+R0146,groq,True,False,[],2.795
+R0147,groq,True,True,"[{""name"": ""กล้วยเชื่อมใส่น้ำแข็ง"", ""sentiment"": ""POS""}, {""name"": ""แกงส้มชะอมทอดไหลบัวกุ้งสด"", ""sentiment"": ""NEU""}]",4.042
+R0148,groq,True,True,"[{""name"": ""ข้าวซอย"", ""sentiment"": ""POS""}, {""name"": ""เกี๊ยวกรอบ"", ""sentiment"": ""POS""}]",4.013
+R0149,groq,True,True,"[{""name"": ""ต้มยำโป๊ะแตก"", ""sentiment"": ""POS""}, {""name"": ""ปลากระพงฟู"", ""sentiment"": ""POS""}, {""name"": ""กุ้งแม่น้ำราดซอสมะขาม"", ""sentiment"": ""POS""}, {""name"": ""กุ้งชุบแป้งทอด"", ""sentiment"": ""NEU""}]",4.19
+R0150,groq,True,True,"[{""name"": ""สปาเกตตี้เบค่อนพริกแห้ง"", ""sentiment"": ""POS""}, {""name"": ""สลัดทะเลทอด"", ""sentiment"": ""POS""}]",4.088
+R0151,groq,True,False,[],3.039
+R0152,groq,True,True,"[{""name"": ""มาม่าผัดขี้เมา"", ""sentiment"": ""POS""}, {""name"": ""เป็ดกีต้าร์"", ""sentiment"": ""POS""}, {""name"": ""ปลาเผา"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",3.057
+R0153,groq,True,False,[],2.708
+R0154,groq,True,False,[],2.702
+R0155,groq,True,False,[],1.709
+R0156,groq,True,True,"[{""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""POS""}]",2.707
+R0157,groq,True,True,"[{""name"": ""ส้มตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ยำต้นอ่อนทานตะวันทอดกรอบ"", ""sentiment"": ""NEU""}]",3.024
+R0158,groq,True,True,"[{""name"": ""ยำวุ้นเส้นทะเล"", ""sentiment"": ""NEG""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""NEU""}, {""name"": ""ทอดมันกุ้ง"", ""sentiment"": ""POS""}]",5.39
+R0159,groq,True,True,"[{""name"": ""น้ำพริกกะปิ"", ""sentiment"": ""POS""}]",4.153
+R0160,groq,True,True,"[{""name"": ""หมี่กระเฉดหมู"", ""sentiment"": ""NEU""}]",1.829
+R0161,groq,True,False,[],2.817
+R0162,groq,True,False,[],2.688
+R0163,groq,True,True,"[{""name"": ""ผัดซีอิ๊วหมูนุ่ม"", ""sentiment"": ""NEU""}, {""name"": ""ราดหน้า"", ""sentiment"": ""NEU""}]",3.192
+R0164,groq,True,True,"[{""name"": ""กุ้งตัวโตดี"", ""sentiment"": ""POS""}, {""name"": ""ไข่ตุ๋นหม้อไฟ"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำ"", ""sentiment"": ""POS""}]",4.284
+R0165,groq,True,True,"[{""name"": ""คั่วกลิ้งเห็ด"", ""sentiment"": ""POS""}, {""name"": ""แกงส้มแบบกับข้าว"", ""sentiment"": ""NEU""}]",4.972
+R0166,groq,True,True,"[{""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}, {""name"": ""ปูนึ่ง"", ""sentiment"": ""POS""}, {""name"": ""กุ้งชุบแป้งทอด"", ""sentiment"": ""POS""}]",6.095
+R0167,groq,True,False,[],0.593
+R0168,groq,True,True,"[{""name"": ""ปลากะพงนึ่งซีอิ้ว"", ""sentiment"": ""POS""}]",2.03
+R0169,groq,True,True,"[{""name"": ""น้ำซุปกระดุก"", ""sentiment"": ""POS""}]",2.176
+R0170,groq,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""POS""}, {""name"": ""ทะเลทิดกระเทียม"", ""sentiment"": ""NEG""}]",2.935
+R0171,groq,True,True,"[{""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ส่มตำปลาร้า"", ""sentiment"": ""POS""}, {""name"": ""เนื้ิอสันนอกย่าง"", ""sentiment"": ""POS""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำปลาร้า"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำลาว"", ""sentiment"": ""POS""}]",4.951
+R0172,groq,True,True,"[{""name"": ""ส้มตำทอด"", ""sentiment"": ""POS""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}]",4.17
+R0173,groq,True,False,[],1.699
+R0174,groq,True,True,"[{""name"": ""ตำข้าวโพดไข่เค็ม"", ""sentiment"": ""POS""}, {""name"": ""หมูพวงไถนา"", ""sentiment"": ""POS""}, {""name"": ""แจ่วฮ้อนเนื้อน่องลายเซตใหญ่"", ""sentiment"": ""POS""}, {""name"": ""ยำแหนมทอด"", ""sentiment"": ""NEU""}]",3.184
+R0175,groq,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""NEU""}, {""name"": ""ตำหลวงพระบาง"", ""sentiment"": ""NEU""}, {""name"": ""ไอศกรีมมะพร้าวอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""ไส้กรอกอีสาน"", ""sentiment"": ""NEG""}, {""name"": ""ต้มแซ่บ"", ""sentiment"": ""NEG""}]",6.552
+R0176,groq,True,True,"[{""name"": ""ยำแซ่บ"", ""sentiment"": ""POS""}, {""name"": ""กระเพรา"", ""sentiment"": ""POS""}]",3.932
+R0177,groq,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำไทย"", ""sentiment"": ""NEU""}, {""name"": ""เนื้ิอสันนอกย่าง"", ""sentiment"": ""NEU""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}]",4.414
+R0178,groq,True,True,"[{""name"": ""ขาหมูเนื้อหนัง"", ""sentiment"": ""POS""}, {""name"": ""ซุปเยื่อไผ่กระดูกหมู"", ""sentiment"": ""NEU""}, {""name"": ""เกาเหลาเลือดหมู"", ""sentiment"": ""NEU""}, {""name"": ""เนื้อหนังไข่"", ""sentiment"": ""POS""}]",6.46
+R0179,groq,True,True,"[{""name"": ""ปลากุเลาผัดพริกขี้หนู"", ""sentiment"": ""NEG""}]",3.335
+R0180,groq,True,True,"[{""name"": ""ทอดมันกุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""หอยหลอดผัดฉ่า"", ""sentiment"": ""NEU""}, {""name"": ""กะพงเผาเกลือ"", ""sentiment"": ""NEU""}]",2.993
+R0181,groq,True,False,[],2.732
+R0182,groq,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""NEU""}, {""name"": ""ลาบเป็ดร้อยเอ็ด"", ""sentiment"": ""NEU""}, {""name"": ""ปลาเผา"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งเต้น"", ""sentiment"": ""NEU""}]",4.237
+R0183,groq,True,False,[],4.83
+R0184,groq,True,False,[],1.722
+R0185,groq,True,True,"[{""name"": ""หมี่กระเฉดหมู"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำปลากระพงน้ำใส"", ""sentiment"": ""NEU""}, {""name"": ""ผัดฉ่าทะเลราดข้าว"", ""sentiment"": ""NEU""}]",3.009
+R0186,groq,True,True,"[{""name"": ""ไอศครีม"", ""sentiment"": ""NEU""}]",3.097
+R0187,groq,True,False,[],4.222
+R0188,groq,True,False,[],0.678
+R0189,groq,True,True,"[{""name"": ""แกงฮังเล"", ""sentiment"": ""NEU""}, {""name"": ""ลาบหมูคั่ว"", ""sentiment"": ""NEU""}, {""name"": ""น้ำพริกอ่อง"", ""sentiment"": ""NEU""}, {""name"": ""ผักสด"", ""sentiment"": ""NEU""}, {""name"": ""ขนมจีนน้ำเงี้ยว"", ""sentiment"": ""NEU""}, {""name"": ""ตำขนุนอ่อน"", ""sentiment"": ""NEU""}, {""name"": ""หมูยอทอด"", ""sentiment"": ""NEU""}]",3.194
+R0190,groq,True,True,"[{""name"": ""ส้มตำหลวงพระบาง"", ""sentiment"": ""POS""}, {""name"": ""ไก่แซ่บทอด"", ""sentiment"": ""NEU""}, {""name"": ""ไอศรีมมะพร้าว"", ""sentiment"": ""POS""}]",5.094
+R0191,groq,True,True,"[{""name"": ""ข้าวหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""บะหมี่แห้งหมูแดง"", ""sentiment"": ""NEU""}]",2.838
+R0192,groq,True,False,[],3.556
+R0193,groq,True,False,[],0.559
+R0194,groq,True,False,[],1.855
+R0195,groq,True,False,[],1.893
+R0196,groq,True,True,"[{""name"": ""ข้าวเหนียว"", ""sentiment"": ""POS""}, {""name"": ""ปีกไก่ย่าง"", ""sentiment"": ""MIX""}, {""name"": ""ส้มตำไทย"", ""sentiment"": ""MIX""}, {""name"": ""ปลากระพงทอดกระเทียม"", ""sentiment"": ""NEU""}, {""name"": ""ยำผักบุ้งกุ้งสด"", ""sentiment"": ""NEG""}, {""name"": ""กุ้งทอด"", ""sentiment"": ""NEG""}, {""name"": ""น้ำตกหมู"", ""sentiment"": ""POS""}, {""name"": ""ต้มแซ่บกระดูกอ่อน"", ""sentiment"": ""POS""}, {""name"": ""ผัดขนมจีน"", ""sentiment"": ""NEG""}]",3.786
+R0197,groq,True,False,[],5.141
+R0198,groq,True,False,[],2.765
+R0199,groq,True,True,"[{""name"": ""ยำปลาดุกฟู"", ""sentiment"": ""POS""}]",1.794
+R0200,groq,True,True,"[{""name"": ""เป็ดปักกิ่ง"", ""sentiment"": ""NEG""}, {""name"": ""บะหมี่ขาเป็ด"", ""sentiment"": ""NEG""}, {""name"": ""กระเพาะปลาผัดแห้ง"", ""sentiment"": ""NEG""}, {""name"": ""ปลา กระพงนึ่งมะนาว"", ""sentiment"": ""NEG""}, {""name"": ""กระเพาะปลา"", ""sentiment"": ""NEU""}, {""name"": ""แป๊ะก๊วยนมสด"", ""sentiment"": ""NEU""}]",4.842
+R0201,groq,True,True,"[{""name"": ""ปลาทับทิมนึ่ง"", ""sentiment"": ""POS""}, {""name"": ""อั่วกบ"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำปลาร้า"", ""sentiment"": ""POS""}]",6.348
+R0202,groq,True,True,"[{""name"": ""ปลาช่อนทอดน้ำปลา"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำกุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""ห่อหมกพุงปลา"", ""sentiment"": ""POS""}]",5.203
+R0203,groq,True,True,"[{""name"": ""ข้าวราดปลาหมึกผัดพริกเผา"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวราดหมูกรอบผัดพริกแกง"", ""sentiment"": ""NEU""}, {""name"": ""ไก่ทอดน้ำปลา"", ""sentiment"": ""NEU""}]",4.07
+R0204,groq,True,False,[],2.687
+R0205,groq,True,False,[],2.826
+R0206,groq,True,True,"[{""name"": ""น้ำพริก"", ""sentiment"": ""POS""}]",1.87
+R0207,groq,True,True,"[{""name"": ""#แกงเหลือง"", ""sentiment"": ""POS""}]",2.891
+R0208,groq,True,True,"[{""name"": ""ผัดผักบุ้งไฟแดง"", ""sentiment"": ""NEU""}, {""name"": ""หมูกระเทียม"", ""sentiment"": ""NEG""}]",4.117
+R0209,groq,True,True,"[{""name"": ""ข้าวมันไก่ตอนพิเศษ"", ""sentiment"": ""POS""}]",3.758
+R0210,groq,True,True,"[{""name"": ""น้ำลำไยปั่น"", ""sentiment"": ""NEU""}, {""name"": ""เมี่ยงคำหวาน"", ""sentiment"": ""NEU""}, {""name"": ""กรรเชียงปูผัดพริกเหลือง"", ""sentiment"": ""MIX""}, {""name"": ""เมี่ยงคำ"", ""sentiment"": ""NEU""}]",4.214
+R0211,groq,True,True,"[{""name"": ""เนย-วิปครีมโอรีโอลาวา"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวต้ม-กระดูกเล้ง"", ""sentiment"": ""NEU""}, {""name"": ""โกโก้ปั่น"", ""sentiment"": ""NEU""}, {""name"": ""ปังเย็นน้ำแดง วิปครีม+คอนเฟรค"", ""sentiment"": ""NEU""}, {""name"": ""โก"", ""sentiment"": ""NEU""}, {""name"": ""ปัง"", ""sentiment"": ""NEU""}, {""name"": ""เนย-วิป"", ""sentiment"": ""NEU""}, {""name"": ""ก"", ""sentiment"": ""NEU""}, {""name"": ""ก๋วยเตี๋ยวหมูต้มยำ"", ""sentiment"": ""NEU""}, {""name"": ""เกาเหลาเลือดหมู"", ""sentiment"": ""NEU""}, {""name"": ""โจ๊ก"", ""sentiment"": ""NEU""}, {""name"": ""ยำรสแซ่บ"", ""sentiment"": ""NEU""}]",5.092
+R0212,groq,True,False,[],4.632
+R0213,groq,True,False,[],3.876
+R0214,groq,True,True,"[{""name"": ""ส้มตำหลวงพระบางถาด"", ""sentiment"": ""POS""}, {""name"": ""คอหมูย่าง"", ""sentiment"": ""NEU""}, {""name"": ""ปีกไก่ทอด"", ""sentiment"": ""NEU""}, {""name"": ""ปลานิลเผาเกลือ"", ""sentiment"": ""NEU""}, {""name"": ""ตำซั่วแซ่บวัน"", ""sentiment"": ""NEU""}, {""name"": ""ขนมจีน"", ""sentiment"": ""NEU""}]",5.019
+R0215,groq,True,False,[],3.819
+R0216,groq,True,True,"[{""name"": ""ตำซั่ว"", ""sentiment"": ""NEG""}, {""name"": ""ยำหมูยอ"", ""sentiment"": ""MIX""}]",5.39
+R0217,groq,True,True,"[{""name"": ""แกงคั่วหอยขม"", ""sentiment"": ""NEU""}]",4.036
+R0218,groq,True,False,[],1.913
+R0219,groq,True,False,[],2.78
+R0220,groq,True,True,"[{""name"": ""ไก่ย่าง"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำไทย"", ""sentiment"": ""NEU""}, {""name"": ""อกไก่ย่าง"", ""sentiment"": ""NEU""}]",3.103
+R0221,groq,True,True,"[{""name"": ""ส้มตำไทย"", ""sentiment"": ""POS""}, {""name"": ""ลาบทูน่า"", ""sentiment"": ""POS""}, {""name"": ""สันในไก่ข้าวโพดทอด"", ""sentiment"": ""POS""}]",6.35
+R0222,groq,True,True,"[{""name"": ""สปาเก็ตตี้กับร้านทอดในซอสขาว"", ""sentiment"": ""POS""}, {""name"": ""เค้กใบเตย"", ""sentiment"": ""POS""}]",2.194
+R0223,groq,True,False,[],2.775
+R0224,groq,True,True,"[{""name"": ""พริกตำสดๆ"", ""sentiment"": ""POS""}]",2.037
+R0225,groq,True,True,"[{""name"": ""คะน้าหมูกรอบราดข้าว"", ""sentiment"": ""NEU""}, {""name"": ""สเต็กหมูพริกไทยดำ"", ""sentiment"": ""NEU""}, {""name"": ""ผักหวานผัดกุ้งราดข้าว"", ""sentiment"": ""NEU""}, {""name"": ""ไข่กระทะ"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวหน้าน้ำตกคอหมู"", ""sentiment"": ""NEU""}, {""name"": ""ก๋วยเตี๋ยวคั่วไก่"", ""sentiment"": ""NEU""}]",4.426
+R0226,groq,True,False,[],3.029
+R0227,groq,True,True,"[{""name"": ""ข้าวปลากระพงย่าง"", ""sentiment"": ""POS""}, {""name"": ""ซุปดาชิ"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดกระเทียมปลาแซลมอน"", ""sentiment"": ""MIX""}, {""name"": ""แซลมอนชิ้นใหญ่"", ""sentiment"": ""NEU""}]",2.335
+R0228,groq,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""ลาบเป็ดร้อยเอ็ด"", ""sentiment"": ""POS""}, {""name"": ""ปลาเผา"", ""sentiment"": ""POS""}, {""name"": ""กุ้งเต้น"", ""sentiment"": ""POS""}]",8.959
+R0229,groq,True,True,"[{""name"": ""ก๋วยเตี๋ยว"", ""sentiment"": ""POS""}]",2.949
+R0230,groq,True,True,"[{""name"": ""ส้มตำผัดผักบุ้งไทย"", ""sentiment"": ""MIX""}]",1.166
+R0231,groq,True,True,"[{""name"": ""ชานม"", ""sentiment"": ""MIX""}]",5.012
+R0232,groq,True,False,[],3.67
+R0233,groq,True,True,"[{""name"": ""หมูย่าง"", ""sentiment"": ""NEU""}]",2.063
+R0234,groq,True,False,[],0.71
+R0235,groq,True,False,[],2.898
+R0236,groq,True,True,"[{""name"": ""ข้าวผัดรถไฟ"", ""sentiment"": ""POS""}, {""name"": ""แกงเขียวหวาน"", ""sentiment"": ""POS""}, {""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",5.772
+R0237,groq,True,True,"[{""name"": ""ไข่ตุ๋นหม้อไฟ"", ""sentiment"": ""POS""}, {""name"": ""ปลากะพงสามรส"", ""sentiment"": ""POS""}, {""name"": ""กุ้งทอดซอสมะขาม"", ""sentiment"": ""POS""}, {""name"": ""ผัดผักรวม ทะเลรวมมิตร"", ""sentiment"": ""POS""}]",1.147
+R0238,groq,True,True,"[{""name"": ""ข้าวต้ม"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวสวย"", ""sentiment"": ""NEU""}, {""name"": ""ยำหมูกรอบวาซาบิ"", ""sentiment"": ""MIX""}, {""name"": ""ซี่โครงหมูตุ๋นพริกไทยดำ"", ""sentiment"": ""POS""}]",5.821
+R0239,groq,True,False,[],1.878
+R0240,groq,True,True,"[{""name"": ""โอมากาเซะ"", ""sentiment"": ""POS""}, {""name"": ""ซูชิ"", ""sentiment"": ""POS""}, {""name"": ""ชาบู"", ""sentiment"": ""POS""}, {""name"": ""เป็ดปักกิ่ง"", ""sentiment"": ""POS""}]",4.44
+R0241,groq,True,False,[],2.747
+R0242,groq,True,True,"[{""name"": ""คอหมูย่าง"", ""sentiment"": ""POS""}]",1.777
+R0243,groq,True,False,[],2.843
+R0244,groq,True,True,"[{""name"": ""น้ำพริก"", ""sentiment"": ""POS""}]",3.03
+R0245,groq,True,False,[],3.721
+R0246,groq,True,True,"[{""name"": ""ข้าวผัดปู"", ""sentiment"": ""NEU""}, {""name"": ""ต้มยำปลากะพงน้ำใส"", ""sentiment"": ""NEU""}, {""name"": ""หอยแคงลวก"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งเผา"", ""sentiment"": ""NEU""}, {""name"": ""ปูนึ่ง"", ""sentiment"": ""NEU""}]",3.274
+R0247,groq,True,True,"[{""name"": ""ซุปเยื่อไผ่"", ""sentiment"": ""POS""}]",0.616
+R0248,groq,True,True,"[{""name"": ""แกงเขียวหวาน"", ""sentiment"": ""POS""}]",2.865
+R0249,groq,True,True,"[{""name"": ""ผัดไทย"", ""sentiment"": ""POS""}]",2.917
+R0250,groq,True,True,"[{""name"": ""หมึกนึ่งมะนาว"", ""sentiment"": ""POS""}, {""name"": ""หอยหลอดผัดฉ่า"", ""sentiment"": ""NEU""}, {""name"": ""ทอดมันปลากราย"", ""sentiment"": ""NEU""}, {""name"": ""ปลาดุกฟู"", ""sentiment"": ""POS""}, {""name"": ""ตำไทย"", ""sentiment"": ""NEU""}]",5.116
+R0251,groq,True,False,[],4.874
+R0252,groq,True,True,"[{""name"": ""ข้าวซอยหมู"", ""sentiment"": ""POS""}]",2.881
+R0253,groq,True,True,"[{""name"": ""ยำหอยนางรม"", ""sentiment"": ""NEU""}, {""name"": ""ปลาหมึกแดดเดียว"", ""sentiment"": ""NEU""}, {""name"": ""หมูกรอบผัดพริกกลือ"", ""sentiment"": ""NEU""}, {""name"": ""แกงคั่วเนื้อปูก้อน"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งอบวุ้นเส้น"", ""sentiment"": ""NEU""}, {""name"": ""ปลากะพงทอดตะไคร้"", ""sentiment"": ""NEU""}]",4.731
+R0254,groq,True,True,"[{""name"": ""กุ้งแช่น้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""NEU""}, {""name"": ""ปูผัดผงกระรี่"", ""sentiment"": ""NEU""}, {""name"": ""หมึกผัดไข่เค็ม"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งผัดผงกะหรี่"", ""sentiment"": ""NEU""}, {""name"": ""หมึกไข่นึ่งมะนาว"", ""sentiment"": ""NEU""}]",4.231
+R0255,groq,True,True,"[{""name"": ""แหนมเนือง"", ""sentiment"": ""POS""}, {""name"": ""ปากหม้อญวณ"", ""sentiment"": ""POS""}, {""name"": ""ก๋วยจั๊บญวณ"", ""sentiment"": ""POS""}]",4.301
+R0256,groq,True,True,"[{""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""POS""}, {""name"": ""ต้มส้มปลากระบอก"", ""sentiment"": ""POS""}, {""name"": ""ฮอยจ๋อมาเม็ดใหญ่ ใส่เนื้อปู"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดปู"", ""sentiment"": ""POS""}, {""name"": ""ต้มส้มปลากรบอก"", ""sentiment"": ""POS""}, {""name"": ""ยำหอยนางรม"", ""sentiment"": ""POS""}, {""name"": ""หมึกกุ้งชุบแป้งทอด"", ""sentiment"": ""POS""}]",5.289
+R0257,groq,True,True,"[{""name"": ""แกงเขียวหวานเนื้อ"", ""sentiment"": ""NEU""}, {""name"": ""แกงพะแนงหมู"", ""sentiment"": ""NEU""}]",4.995
+R0258,groq,True,True,"[{""name"": ""ติ่มซำ"", ""sentiment"": ""POS""}, {""name"": ""ไข่ลวก"", ""sentiment"": ""POS""}]",4.838
+R0259,groq,True,True,"[{""name"": ""ต้มยำปลา"", ""sentiment"": ""POS""}]",1.736
+R0260,groq,True,True,"[{""name"": ""บาร์บีคิวซี่โครงหมู"", ""sentiment"": ""NEU""}, {""name"": ""สลักผักรวม"", ""sentiment"": ""NEU""}, {""name"": ""สปาเก็ตตี้เส้นดำกระเทียมพริกแห้งซีฟู๊ต"", ""sentiment"": ""NEU""}, {""name"": ""Tortillas Pizza"", ""sentiment"": ""NEU""}]",4.262
+R0261,groq,True,True,"[{""name"": ""จิ้มจุ่มน้ำซุป"", ""sentiment"": ""NEG""}, {""name"": ""หมูผักสด"", ""sentiment"": ""POS""}]",3.056
+R0262,groq,True,True,"[{""name"": ""ก๋วยเตี๋ยวไก่ตุ๋น"", ""sentiment"": ""NEU""}, {""name"": ""กะเพราหอม"", ""sentiment"": ""NEU""}]",5.146
+R0263,groq,True,False,[],2.573
+R0264,groq,True,True,"[{""name"": ""ผัดฉ่ากามหอย"", ""sentiment"": ""POS""}, {""name"": ""ปลาเก๋าราดพริก"", ""sentiment"": ""POS""}, {""name"": ""ผัดผักรวมมิตร"", ""sentiment"": ""POS""}]",1.939
+R0265,groq,True,True,"[{""name"": ""ปีกไก่ทอด"", ""sentiment"": ""POS""}, {""name"": ""ยำลาวไข่แดงเค็มดิบ"", ""sentiment"": ""NEU""}, {""name"": ""ตำไข่เค็ม"", ""sentiment"": ""NEU""}]",5.537
+R0266,groq,True,True,"[{""name"": ""หมาล่า"", ""sentiment"": ""POS""}]",3.822
+R0267,groq,True,False,[],2.921
+R0268,groq,True,True,"[{""name"": ""ปอเปี๊ยะกรอบกุ้ง"", ""sentiment"": ""POS""}, {""name"": ""ข้าวผัดน้ำพริกปลาทู"", ""sentiment"": ""POS""}, {""name"": ""ต้มยำ"", ""sentiment"": ""POS""}]",3.386
+R0269,groq,True,False,[],2.727
+R0270,groq,True,False,[],1.74
+R0271,groq,True,True,"[{""name"": ""Grilled Snapper"", ""sentiment"": ""NEU""}, {""name"": ""สปาเก็ตตี้"", ""sentiment"": ""NEU""}, {""name"": ""Grilled Seabass"", ""sentiment"": ""NEU""}, {""name"": ""Chicken Teriyaki Nachos"", ""sentiment"": ""NEU""}, {""name"": ""นาโช่ชีส"", ""sentiment"": ""POS""}]",3.184
+R0272,groq,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}, {""name"": ""น้ำตกคอหมู"", ""sentiment"": ""POS""}, {""name"": ""หอยแครง"", ""sentiment"": ""POS""}]",4.917
+R0273,groq,True,False,[],2.753
+R0274,groq,True,False,[],3.103
+R0275,groq,True,True,"[{""name"": ""ก๋วยเตี๋ยวน้ำตก"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวกะเพรา"", ""sentiment"": ""NEU""}]",0.813
+R0276,groq,True,False,[],0.576
+R0277,groq,True,True,"[{""name"": ""ชาบูแบบอลาคาสนะ"", ""sentiment"": ""POS""}]",2.125
+R0278,groq,True,True,"[{""name"": ""นักเก็ต + เฟรนซ์ฟราย"", ""sentiment"": ""NEU""}, {""name"": ""เค้กมะพร้าว"", ""sentiment"": ""POS""}, {""name"": ""Mixed Berry Grumble Cheese"", ""sentiment"": ""NEU""}]",4.629
+R0279,groq,True,True,"[{""name"": ""นกกระจอกผัดพริกไทยดำ"", ""sentiment"": ""POS""}, {""name"": ""ไก่ผัดเม็ดมะม่วง"", ""sentiment"": ""POS""}]",3.862
+R0280,groq,True,False,[],3.054
+R0281,groq,True,False,[],3.39
+R0282,groq,True,True,"[{""name"": ""ห่อหมกทะเลมะพร้าวอ่อน"", ""sentiment"": ""POS""}, {""name"": ""ตำมังคุด"", ""sentiment"": ""POS""}, {""name"": ""ออส่วนกรอบ"", ""sentiment"": ""POS""}, {""name"": ""กระพงลุยสวย"", ""sentiment"": ""NEG""}]",3.084
+R0283,groq,True,True,"[{""name"": ""น้ำพริกไข่ปู"", ""sentiment"": ""POS""}]",2.999
+R0284,groq,True,False,[],3.195
+R0285,groq,True,True,"[{""name"": ""สเต็กไก่"", ""sentiment"": ""NEG""}]",1.662
+R0286,groq,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",2.691
+R0287,groq,True,True,"[{""name"": ""ข้าวไข่ข้นกุ้ง"", ""sentiment"": ""NEU""}, {""name"": ""กุ้งเหยียด ชุด 5 ไม้"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวปลากะพงทอดคั่วพริกเกลือ"", ""sentiment"": ""NEU""}, {""name"": ""ยำเกี๊ยวกรอบกุ้งสับ"", ""sentiment"": ""NEU""}]",4.236
+R0288,groq,True,True,"[{""name"": ""ใบเหลียงผัดไข่"", ""sentiment"": ""POS""}, {""name"": ""เนื้อปลาเก๋านึ่งซีอิ๊ว"", ""sentiment"": ""POS""}, {""name"": ""สามชั้นทอดน้ำปลา"", ""sentiment"": ""POS""}]",2.652
+R0289,groq,True,True,"[{""name"": ""แกงส้ม"", ""sentiment"": ""NEG""}]",3.805
+R0290,groq,True,True,"[{""name"": ""ส้มตำชมนา"", ""sentiment"": ""POS""}, {""name"": ""ห่อหมกทะเล"", ""sentiment"": ""POS""}]",4.252
+R0291,groq,True,False,[],1.68
+R0292,groq,True,False,[],1.687
+R0293,groq,True,True,"[{""name"": ""ส้มตำ"", ""sentiment"": ""POS""}]",4.048
+R0294,groq,True,False,[],1.828
+R0295,groq,True,True,"[{""name"": ""ห่อหมกทะเลมะพร้าวอ่อน"", ""sentiment"": ""POS""}, {""name"": ""ปูนิ่มผัดพริกไทยดำ"", ""sentiment"": ""POS""}, {""name"": ""ปลากระพงทอดน้ำปลา"", ""sentiment"": ""POS""}, {""name"": ""ไข่เจียวธรรมดา"", ""sentiment"": ""POS""}]",3.286
+R0296,groq,True,False,[],3.67
+R0297,groq,True,True,"[{""name"": ""ก๋วยเตี๋ยวเป็ดตุ๋น"", ""sentiment"": ""NEU""}, {""name"": ""ข้าวเป็ดย่างหมูกรอบ"", ""sentiment"": ""NEU""}, {""name"": ""เป็ดย่าง"", ""sentiment"": ""NEU""}]",3.098
+R0298,groq,True,True,"[{""name"": ""ข้าวมันไก่พิเศษ"", ""sentiment"": ""POS""}, {""name"": ""ข้าวมันไก่ลิ่มซัง"", ""sentiment"": ""NEU""}, {""name"": ""ไก่ทอด"", ""sentiment"": ""NEU""}, {""name"": ""เครื่องใน"", ""sentiment"": ""NEU""}]",4.255
+R0299,groq,True,False,[],2.744
+R0300,groq,True,True,"[{""name"": ""แกงกะทิเนื้อโบราณ"", ""sentiment"": ""POS""}]",4.748

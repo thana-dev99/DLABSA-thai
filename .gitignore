@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+# Review texts are not redistributed (see README)
+annotation_sample.xlsx
+*.xlsx
+results/
