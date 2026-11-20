@@ -2,7 +2,7 @@
 
 Annotations, model outputs, and code for the paper "Comparing Free and Open Large Language
 Models for Dish-Level Aspect-Based Sentiment Analysis on Thai Restaurant Reviews"
-(T. Wongabut and S. Chinwicha).
+(T. Wongabut, W. Krathu, and S. Chinwicha).
 
 ## Contents
 
