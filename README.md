@@ -51,5 +51,5 @@ Annotations, guideline, and model outputs: CC BY 4.0 (`LICENSE-DATA.md`). Code: 
 
 ## Citation
 
-T. Wongabut and S. Chinwicha, "Comparing Free and Open Large Language Models for Dish-Level
+T. Wongabut, W. Krathu, and S. Chinwicha, "Comparing Free and Open Large Language Models for Dish-Level
 Aspect-Based Sentiment Analysis on Thai Restaurant Reviews."
